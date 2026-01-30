@@ -1,0 +1,28 @@
+<calendar>
+    <PropertyCalendar PropertyID="1">
+        <CalDay Date="2012-03-01" Units="0" Reservations="1"  MSMXTypeID="2">
+            <IsBlocked>true</IsBlocked>
+            <MinStay>2</MinStay>
+            <Changeover>1</Changeover>
+        </CalDay>
+        <CalDay Date="2012-03-02" Units="1" Reservations="0"  MSMXTypeID="2">
+            <IsBlocked>false</IsBlocked>
+            <MinStay>3</MinStay>
+            <Changeover>1</Changeover>
+        </CalDay>
+        <CalDay Date="2012-03-03" Units="1" Reservations="0"  MSMXTypeID="1">
+            <IsBlocked>false</IsBlocked>
+            <MinStay>3</MinStay>
+            <MaxStay>9</MaxStay>
+            <Changeover>1</Changeover>
+        </CalDay>
+        <CalDay Date="2012-03-04" Units="1" Reservations="0">
+            <IsBlocked>false</IsBlocked>
+            <Changeover>4</Changeover>
+        </CalDay>
+        <CalDay Date="2012-03-05" Units="1" Reservations="0">
+            <IsBlocked>false</IsBlocked>
+            <Changeover>4</Changeover>
+        </CalDay>
+    </PropertyCalendar>
+</calendar>
