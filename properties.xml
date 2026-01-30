@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+    <property>
+        <id>1</id>
+
+        <name><![CDATA[Apartment Example]]></name>
+        <slug>apartment-example</slug>
+
+        <owner_id>OWNER123</owner_id>
+        <ru_user_id>RU456</ru_user_id>
+
+        <location>
+            <id>10</id>
+            <type>1</type>
+            <address>
+                <street><![CDATA[Calle Mayor 1]]></street>
+                <floor><![CDATA[2º 1ª]]></floor>
+                <zipcode>08001</zipcode>
+            </address>
+            <coordinates>
+                <latitude>41.3870154</latitude>
+                <longitude>2.1700471</longitude>
+            </coordinates>
+        </location>
+
+        <capacity>
+            <space>70</space>
+            <guests>2</guests>
+            <max_people>4</max_people>
+            <bedrooms>2</bedrooms>
+            <bathrooms>1</bathrooms>
+            <wc>1</wc>
+            <units>1</units>
+        </capacity>
+
+        <type_id>3</type_id>
+
+        <checkin>
+            <from>15:00</from>
+            <to>21:00</to>
+        </checkin>
+        <checkout_until>11:00</checkout_until>
+
+        <pricing>
+            <min_price>85.00</min_price>
+            <min_stay>2</min_stay>
+        </pricing>
+
+        <status>
+            <active>1</active>
+            <featured>0</featured>
+            <order_pos>0</order_pos>
+        </status>
+
+        <media>
+            <main_image>123</main_image>
+            <video_url><![CDATA[https://example.com/video.mp4]]></video_url>
+            <og_image><![CDATA[https://example.com/image.jpg]]></og_image>
+        </media>
+
+        <Descriptions>
+            <Description LanguageID="1">
+                <![CDATA[
+                Bonito apartamento en el centro, totalmente equipado.
+                ]]>
+            </Description>
+            <Description LanguageID="2">
+                <![CDATA[
+                Bonito apartamento en el centro, totalmente equipado.
+                ]]>
+            </Description>
+            <Description LanguageID="3">
+                <![CDATA[
+                Bonito apartamento en el centro, totalmente equipado.
+                ]]>
+            </Description>
+        </Descriptions>
+
+        <licence>
+            <number>HUTB-000000</number>
+            <info><![CDATA[
+                Licencia turística válida según normativa local.
+            ]]></info>
+        </licence>
+
+        <cancellation_policies><![CDATA[
+            Cancelación gratuita hasta 7 días antes de la llegada.
+        ]]></cancellation_policies>
+
+        <seo>
+            <meta>
+                <section>rentals</section>
+                <title><![CDATA[Apartment Example Barcelona]]></title>
+                <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
+                <description><![CDATA[Apartment in Barcelona city center.]]></description>
+            </meta>
+            <og>
+                <section>rentals</section>
+                <title><![CDATA[Apartment Example]]></title>
+                <type>website</type>
+                <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
+            </og>
+        </seo>
+
+        <timestamps>
+            <created_at>2026-01-01 12:00:00</created_at>
+            <updated_at>2026-01-20 09:30:00</updated_at>
+        </timestamps>
+    </property>
+</properties>
