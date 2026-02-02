@@ -5,10 +5,6 @@
 
         <name><![CDATA[Apartment Example]]></name>
         <slug>apartment-example</slug>
-
-        <owner_id>OWNER123</owner_id>
-        <ru_user_id>RU456</ru_user_id>
-
         <location>
             <id>10</id>
             <type>1</type>
@@ -42,8 +38,8 @@
         <checkout_until>11:00</checkout_until>
 
         <pricing>
-            <min_price>85.00</min_price>
-            <min_stay>2</min_stay>
+            <min_price>685.00</min_price>
+            <min_stay>180</min_stay>
         </pricing>
 
         <status>
