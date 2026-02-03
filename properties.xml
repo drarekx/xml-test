@@ -48,12 +48,22 @@
             <order_pos>0</order_pos>
         </status>
 
-        <media>
-            <main_image>123</main_image>
-            <video_url><![CDATA[https://example.com/video.mp4]]></video_url>
-            <og_image><![CDATA[https://example.com/image.jpg]]></og_image>
-        </media>
+       <gallery>
+            <item is_main="true">
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/images/1/66d9e34a1f587875865316.jpeg]]></url>
+                <alt><![CDATA[Primera imagenl]]></alt>
+            </item>
 
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/images/1/66d9e34a1f587875865316.jpeg]]></url>
+                <alt><![CDATA[segunda imagenl]]></alt>
+            </item>
+
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/images/1/66d9e34a1f587875865316.jpeg]]></url>
+                <alt><![CDATA[tercera imagenl]]></alt>
+            </item>
+        </media_list>
         <Descriptions>
             <Description LanguageID="1">
                 <![CDATA[
