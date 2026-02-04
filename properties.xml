@@ -2,34 +2,33 @@
 <properties>
     <property>
         <id>1</id>
-
         <name><![CDATA[Apartment Example]]></name>
-        <slug>apartment-example</slug>
+        <slug>apartment-example-1</slug>
         <location>
-            <id>10</id>
+            <id>18</id>
             <type>1</type>
             <address>
-                <street><![CDATA[Calle Mayor 1]]></street>
-                <floor><![CDATA[2º 1ª]]></floor>
-                <zipcode>08001</zipcode>
+                <street><![CDATA[Avinguda Diagonal 456]]></street>
+                <floor><![CDATA[4º 3ª]]></floor>
+                <zipcode>08003</zipcode>
             </address>
             <coordinates>
-                <latitude>41.3870154</latitude>
-                <longitude>2.1700471</longitude>
+                <latitude>41.3023924</latitude>
+                <longitude>2.1007994</longitude>
             </coordinates>
         </location>
 
         <capacity>
-            <space>70</space>
-            <guests>2</guests>
-            <max_people>4</max_people>
-            <bedrooms>2</bedrooms>
-            <bathrooms>1</bathrooms>
+            <space>110</space>
+            <guests>4</guests>
+            <max_people>5</max_people>
+            <bedrooms>1</bedrooms>
+            <bathrooms>2</bathrooms>
             <wc>1</wc>
             <units>1</units>
         </capacity>
 
-        <type_id>3</type_id>
+        <type_id>1</type_id>
 
         <checkin>
             <from>15:00</from>
@@ -38,8 +37,8 @@
         <checkout_until>11:00</checkout_until>
 
         <pricing>
-            <min_price>685.00</min_price>
-            <min_stay>180</min_stay>
+            <min_price>836.37</min_price>
+            <min_stay>37</min_stay>
         </pricing>
 
         <status>
@@ -48,32 +47,29 @@
             <order_pos>0</order_pos>
         </status>
 
-       <gallery>
+        <gallery>
             <item is_main="true">
                 <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/1/66d9e348175db533394366.jpeg]]></url>
-                <alt><![CDATA[Primera imagenl]]></alt>
+                <alt><![CDATA[Primera imagen]]></alt>
             </item>
-
             <item>
                 <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/1/66d9e34a55db0935886401.jpeg]]></url>
-                <alt><![CDATA[segunda imagenl]]></alt>
+                <alt><![CDATA[segunda imagen]]></alt>
             </item>
-
             <item>
                 <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/1/66d9e34a0357e586694469.jpeg]]></url>
-                <alt><![CDATA[tercera imagenl]]></alt>
+                <alt><![CDATA[tercera imagen]]></alt>
             </item>
-
             <item>
                 <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/1/66d9e349d9ad3620245263.jpeg]]></url>
-                <alt><![CDATA[tercera imagenl]]></alt>
+                <alt><![CDATA[cuarta imagen]]></alt>
             </item>
-
             <item>
                 <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/1/66d9e348175db533394366.jpeg]]></url>
-                <alt><![CDATA[tercera imagenl]]></alt>
+                <alt><![CDATA[quinta imagen]]></alt>
             </item>
         </gallery>
+
         <Descriptions>
             <Description LanguageID="1">
                 <![CDATA[
@@ -93,7 +89,7 @@
         </Descriptions>
 
         <licence>
-            <number>HUTB-000000</number>
+            <number>HUTB-000904</number>
             <info><![CDATA[
                 Licencia turística válida según normativa local.
             ]]></info>
@@ -120,7 +116,1688 @@
 
         <timestamps>
             <created_at>2026-01-01 12:00:00</created_at>
-            <updated_at>2026-01-20 09:30:00</updated_at>
+            <updated_at>2026-02-04 09:50:13</updated_at>
         </timestamps>
     </property>
+
+    <property>
+        <id>2</id>
+        <name><![CDATA[Loft Moderno]]></name>
+        <slug>loft-moderno-2</slug>
+        <location>
+            <id>96</id>
+            <type>1</type>
+            <address>
+                <street><![CDATA[Carrer de Mallorca 123]]></street>
+                <floor><![CDATA[2º 1ª]]></floor>
+                <zipcode>08005</zipcode>
+            </address>
+            <coordinates>
+                <latitude>41.3029339</latitude>
+                <longitude>2.1013409</longitude>
+            </coordinates>
+        </location>
+
+        <capacity>
+            <space>65</space>
+            <guests>2</guests>
+            <max_people>8</max_people>
+            <bedrooms>1</bedrooms>
+            <bathrooms>1</bathrooms>
+            <wc>2</wc>
+            <units>1</units>
+        </capacity>
+
+        <type_id>2</type_id>
+
+        <checkin>
+            <from>15:00</from>
+            <to>21:00</to>
+        </checkin>
+        <checkout_until>11:00</checkout_until>
+
+        <pricing>
+            <min_price>513.52</min_price>
+            <min_stay>43</min_stay>
+        </pricing>
+
+        <status>
+            <active>1</active>
+            <featured>0</featured>
+            <order_pos>0</order_pos>
+        </status>
+
+        <gallery>
+            <item is_main="true">
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/2/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[Primera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/2/66d9e34a55db0935886401.jpeg]]></url>
+                <alt><![CDATA[segunda imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/2/66d9e34a0357e586694469.jpeg]]></url>
+                <alt><![CDATA[tercera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/2/66d9e349d9ad3620245263.jpeg]]></url>
+                <alt><![CDATA[cuarta imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/2/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[quinta imagen]]></alt>
+            </item>
+        </gallery>
+
+        <Descriptions>
+            <Description LanguageID="1">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+            <Description LanguageID="2">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+            <Description LanguageID="3">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+        </Descriptions>
+
+        <licence>
+            <number>HUTB-022953</number>
+            <info><![CDATA[
+                Licencia turística válida según normativa local.
+            ]]></info>
+        </licence>
+
+        <cancellation_policies><![CDATA[
+            Cancelación gratuita hasta 7 días antes de la llegada.
+        ]]></cancellation_policies>
+
+        <seo>
+            <meta>
+                <section>rentals</section>
+                <title><![CDATA[Loft Moderno Barcelona]]></title>
+                <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
+                <description><![CDATA[Apartment in Barcelona city center.]]></description>
+            </meta>
+            <og>
+                <section>rentals</section>
+                <title><![CDATA[Loft Moderno]]></title>
+                <type>website</type>
+                <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
+            </og>
+        </seo>
+
+        <timestamps>
+            <created_at>2026-01-01 12:00:00</created_at>
+            <updated_at>2026-02-04 09:50:13</updated_at>
+        </timestamps>
+    </property>
+
+    <property>
+        <id>3</id>
+        <name><![CDATA[Ático con Terraza]]></name>
+        <slug>tico-con-terraza-3</slug>
+        <location>
+            <id>88</id>
+            <type>1</type>
+            <address>
+                <street><![CDATA[Carrer Gran de Gràcia 9]]></street>
+                <floor><![CDATA[Bajos]]></floor>
+                <zipcode>08004</zipcode>
+            </address>
+            <coordinates>
+                <latitude>41.3002893</latitude>
+                <longitude>2.1019732</longitude>
+            </coordinates>
+        </location>
+
+        <capacity>
+            <space>101</space>
+            <guests>1</guests>
+            <max_people>8</max_people>
+            <bedrooms>4</bedrooms>
+            <bathrooms>1</bathrooms>
+            <wc>1</wc>
+            <units>1</units>
+        </capacity>
+
+        <type_id>1</type_id>
+
+        <checkin>
+            <from>15:00</from>
+            <to>21:00</to>
+        </checkin>
+        <checkout_until>11:00</checkout_until>
+
+        <pricing>
+            <min_price>529.75</min_price>
+            <min_stay>66</min_stay>
+        </pricing>
+
+        <status>
+            <active>1</active>
+            <featured>0</featured>
+            <order_pos>0</order_pos>
+        </status>
+
+        <gallery>
+            <item is_main="true">
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/3/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[Primera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/3/66d9e34a55db0935886401.jpeg]]></url>
+                <alt><![CDATA[segunda imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/3/66d9e34a0357e586694469.jpeg]]></url>
+                <alt><![CDATA[tercera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/3/66d9e349d9ad3620245263.jpeg]]></url>
+                <alt><![CDATA[cuarta imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/3/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[quinta imagen]]></alt>
+            </item>
+        </gallery>
+
+        <Descriptions>
+            <Description LanguageID="1">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+            <Description LanguageID="2">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+            <Description LanguageID="3">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+        </Descriptions>
+
+        <licence>
+            <number>HUTB-024022</number>
+            <info><![CDATA[
+                Licencia turística válida según normativa local.
+            ]]></info>
+        </licence>
+
+        <cancellation_policies><![CDATA[
+            Cancelación gratuita hasta 7 días antes de la llegada.
+        ]]></cancellation_policies>
+
+        <seo>
+            <meta>
+                <section>rentals</section>
+                <title><![CDATA[Ático con Terraza Barcelona]]></title>
+                <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
+                <description><![CDATA[Apartment in Barcelona city center.]]></description>
+            </meta>
+            <og>
+                <section>rentals</section>
+                <title><![CDATA[Ático con Terraza]]></title>
+                <type>website</type>
+                <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
+            </og>
+        </seo>
+
+        <timestamps>
+            <created_at>2026-01-01 12:00:00</created_at>
+            <updated_at>2026-02-04 09:50:13</updated_at>
+        </timestamps>
+    </property>
+
+    <property>
+        <id>4</id>
+        <name><![CDATA[Apartamento Centro]]></name>
+        <slug>apartamento-centro-4</slug>
+        <location>
+            <id>76</id>
+            <type>1</type>
+            <address>
+                <street><![CDATA[Calle Mayor 1]]></street>
+                <floor><![CDATA[2º 1ª]]></floor>
+                <zipcode>08001</zipcode>
+            </address>
+            <coordinates>
+                <latitude>41.3004351</latitude>
+                <longitude>2.1021189</longitude>
+            </coordinates>
+        </location>
+
+        <capacity>
+            <space>103</space>
+            <guests>3</guests>
+            <max_people>3</max_people>
+            <bedrooms>1</bedrooms>
+            <bathrooms>1</bathrooms>
+            <wc>2</wc>
+            <units>1</units>
+        </capacity>
+
+        <type_id>6</type_id>
+
+        <checkin>
+            <from>15:00</from>
+            <to>21:00</to>
+        </checkin>
+        <checkout_until>11:00</checkout_until>
+
+        <pricing>
+            <min_price>1085.32</min_price>
+            <min_stay>84</min_stay>
+        </pricing>
+
+        <status>
+            <active>1</active>
+            <featured>0</featured>
+            <order_pos>0</order_pos>
+        </status>
+
+        <gallery>
+            <item is_main="true">
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/4/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[Primera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/4/66d9e34a55db0935886401.jpeg]]></url>
+                <alt><![CDATA[segunda imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/4/66d9e34a0357e586694469.jpeg]]></url>
+                <alt><![CDATA[tercera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/4/66d9e349d9ad3620245263.jpeg]]></url>
+                <alt><![CDATA[cuarta imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/4/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[quinta imagen]]></alt>
+            </item>
+        </gallery>
+
+        <Descriptions>
+            <Description LanguageID="1">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+            <Description LanguageID="2">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+            <Description LanguageID="3">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+        </Descriptions>
+
+        <licence>
+            <number>HUTB-004320</number>
+            <info><![CDATA[
+                Licencia turística válida según normativa local.
+            ]]></info>
+        </licence>
+
+        <cancellation_policies><![CDATA[
+            Cancelación gratuita hasta 7 días antes de la llegada.
+        ]]></cancellation_policies>
+
+        <seo>
+            <meta>
+                <section>rentals</section>
+                <title><![CDATA[Apartamento Centro Barcelona]]></title>
+                <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
+                <description><![CDATA[Apartment in Barcelona city center.]]></description>
+            </meta>
+            <og>
+                <section>rentals</section>
+                <title><![CDATA[Apartamento Centro]]></title>
+                <type>website</type>
+                <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
+            </og>
+        </seo>
+
+        <timestamps>
+            <created_at>2026-01-01 12:00:00</created_at>
+            <updated_at>2026-02-04 09:50:13</updated_at>
+        </timestamps>
+    </property>
+
+    <property>
+        <id>5</id>
+        <name><![CDATA[Estudio Acogedor]]></name>
+        <slug>estudio-acogedor-5</slug>
+        <location>
+            <id>92</id>
+            <type>1</type>
+            <address>
+                <street><![CDATA[Calle Aragón 78]]></street>
+                <floor><![CDATA[2º 1ª]]></floor>
+                <zipcode>08002</zipcode>
+            </address>
+            <coordinates>
+                <latitude>41.3032762</latitude>
+                <longitude>2.1016832</longitude>
+            </coordinates>
+        </location>
+
+        <capacity>
+            <space>113</space>
+            <guests>2</guests>
+            <max_people>7</max_people>
+            <bedrooms>4</bedrooms>
+            <bathrooms>3</bathrooms>
+            <wc>1</wc>
+            <units>1</units>
+        </capacity>
+
+        <type_id>5</type_id>
+
+        <checkin>
+            <from>15:00</from>
+            <to>21:00</to>
+        </checkin>
+        <checkout_until>11:00</checkout_until>
+
+        <pricing>
+            <min_price>332.75</min_price>
+            <min_stay>47</min_stay>
+        </pricing>
+
+        <status>
+            <active>1</active>
+            <featured>0</featured>
+            <order_pos>0</order_pos>
+        </status>
+
+        <gallery>
+            <item is_main="true">
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/5/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[Primera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/5/66d9e34a55db0935886401.jpeg]]></url>
+                <alt><![CDATA[segunda imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/5/66d9e34a0357e586694469.jpeg]]></url>
+                <alt><![CDATA[tercera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/5/66d9e349d9ad3620245263.jpeg]]></url>
+                <alt><![CDATA[cuarta imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/5/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[quinta imagen]]></alt>
+            </item>
+        </gallery>
+
+        <Descriptions>
+            <Description LanguageID="1">
+                <![CDATA[
+                Apartamento tranquilo, cerca del transporte público y servicios.
+                ]]>
+            </Description>
+            <Description LanguageID="2">
+                <![CDATA[
+                Apartamento tranquilo, cerca del transporte público y servicios.
+                ]]>
+            </Description>
+            <Description LanguageID="3">
+                <![CDATA[
+                Apartamento tranquilo, cerca del transporte público y servicios.
+                ]]>
+            </Description>
+        </Descriptions>
+
+        <licence>
+            <number>HUTB-001124</number>
+            <info><![CDATA[
+                Licencia turística válida según normativa local.
+            ]]></info>
+        </licence>
+
+        <cancellation_policies><![CDATA[
+            Cancelación gratuita hasta 7 días antes de la llegada.
+        ]]></cancellation_policies>
+
+        <seo>
+            <meta>
+                <section>rentals</section>
+                <title><![CDATA[Estudio Acogedor Barcelona]]></title>
+                <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
+                <description><![CDATA[Apartment in Barcelona city center.]]></description>
+            </meta>
+            <og>
+                <section>rentals</section>
+                <title><![CDATA[Estudio Acogedor]]></title>
+                <type>website</type>
+                <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
+            </og>
+        </seo>
+
+        <timestamps>
+            <created_at>2026-01-01 12:00:00</created_at>
+            <updated_at>2026-02-04 09:50:13</updated_at>
+        </timestamps>
+    </property>
+
+    <property>
+        <id>6</id>
+        <name><![CDATA[Apartment Example]]></name>
+        <slug>apartment-example-6</slug>
+        <location>
+            <id>46</id>
+            <type>1</type>
+            <address>
+                <street><![CDATA[Avinguda Diagonal 456]]></street>
+                <floor><![CDATA[1º 1ª]]></floor>
+                <zipcode>08003</zipcode>
+            </address>
+            <coordinates>
+                <latitude>41.3007214</latitude>
+                <longitude>2.1024052</longitude>
+            </coordinates>
+        </location>
+
+        <capacity>
+            <space>54</space>
+            <guests>2</guests>
+            <max_people>3</max_people>
+            <bedrooms>0</bedrooms>
+            <bathrooms>2</bathrooms>
+            <wc>1</wc>
+            <units>1</units>
+        </capacity>
+
+        <type_id>2</type_id>
+
+        <checkin>
+            <from>15:00</from>
+            <to>21:00</to>
+        </checkin>
+        <checkout_until>11:00</checkout_until>
+
+        <pricing>
+            <min_price>344.95</min_price>
+            <min_stay>67</min_stay>
+        </pricing>
+
+        <status>
+            <active>1</active>
+            <featured>0</featured>
+            <order_pos>0</order_pos>
+        </status>
+
+        <gallery>
+            <item is_main="true">
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/6/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[Primera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/6/66d9e34a55db0935886401.jpeg]]></url>
+                <alt><![CDATA[segunda imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/6/66d9e34a0357e586694469.jpeg]]></url>
+                <alt><![CDATA[tercera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/6/66d9e349d9ad3620245263.jpeg]]></url>
+                <alt><![CDATA[cuarta imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/6/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[quinta imagen]]></alt>
+            </item>
+        </gallery>
+
+        <Descriptions>
+            <Description LanguageID="1">
+                <![CDATA[
+                Apartamento tranquilo, cerca del transporte público y servicios.
+                ]]>
+            </Description>
+            <Description LanguageID="2">
+                <![CDATA[
+                Apartamento tranquilo, cerca del transporte público y servicios.
+                ]]>
+            </Description>
+            <Description LanguageID="3">
+                <![CDATA[
+                Apartamento tranquilo, cerca del transporte público y servicios.
+                ]]>
+            </Description>
+        </Descriptions>
+
+        <licence>
+            <number>HUTB-032164</number>
+            <info><![CDATA[
+                Licencia turística válida según normativa local.
+            ]]></info>
+        </licence>
+
+        <cancellation_policies><![CDATA[
+            Cancelación gratuita hasta 7 días antes de la llegada.
+        ]]></cancellation_policies>
+
+        <seo>
+            <meta>
+                <section>rentals</section>
+                <title><![CDATA[Apartment Example Barcelona]]></title>
+                <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
+                <description><![CDATA[Apartment in Barcelona city center.]]></description>
+            </meta>
+            <og>
+                <section>rentals</section>
+                <title><![CDATA[Apartment Example]]></title>
+                <type>website</type>
+                <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
+            </og>
+        </seo>
+
+        <timestamps>
+            <created_at>2026-01-01 12:00:00</created_at>
+            <updated_at>2026-02-04 09:50:13</updated_at>
+        </timestamps>
+    </property>
+
+    <property>
+        <id>7</id>
+        <name><![CDATA[Loft Moderno]]></name>
+        <slug>loft-moderno-7</slug>
+        <location>
+            <id>28</id>
+            <type>1</type>
+            <address>
+                <street><![CDATA[Carrer de Mallorca 123]]></street>
+                <floor><![CDATA[4º 3ª]]></floor>
+                <zipcode>08001</zipcode>
+            </address>
+            <coordinates>
+                <latitude>41.3009916</latitude>
+                <longitude>2.1026755</longitude>
+            </coordinates>
+        </location>
+
+        <capacity>
+            <space>117</space>
+            <guests>4</guests>
+            <max_people>7</max_people>
+            <bedrooms>2</bedrooms>
+            <bathrooms>1</bathrooms>
+            <wc>1</wc>
+            <units>1</units>
+        </capacity>
+
+        <type_id>4</type_id>
+
+        <checkin>
+            <from>15:00</from>
+            <to>21:00</to>
+        </checkin>
+        <checkout_until>11:00</checkout_until>
+
+        <pricing>
+            <min_price>343.98</min_price>
+            <min_stay>69</min_stay>
+        </pricing>
+
+        <status>
+            <active>1</active>
+            <featured>0</featured>
+            <order_pos>0</order_pos>
+        </status>
+
+        <gallery>
+            <item is_main="true">
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/7/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[Primera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/7/66d9e34a55db0935886401.jpeg]]></url>
+                <alt><![CDATA[segunda imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/7/66d9e34a0357e586694469.jpeg]]></url>
+                <alt><![CDATA[tercera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/7/66d9e349d9ad3620245263.jpeg]]></url>
+                <alt><![CDATA[cuarta imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/7/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[quinta imagen]]></alt>
+            </item>
+        </gallery>
+
+        <Descriptions>
+            <Description LanguageID="1">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+            <Description LanguageID="2">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+            <Description LanguageID="3">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+        </Descriptions>
+
+        <licence>
+            <number>HUTB-027170</number>
+            <info><![CDATA[
+                Licencia turística válida según normativa local.
+            ]]></info>
+        </licence>
+
+        <cancellation_policies><![CDATA[
+            Cancelación gratuita hasta 7 días antes de la llegada.
+        ]]></cancellation_policies>
+
+        <seo>
+            <meta>
+                <section>rentals</section>
+                <title><![CDATA[Loft Moderno Barcelona]]></title>
+                <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
+                <description><![CDATA[Apartment in Barcelona city center.]]></description>
+            </meta>
+            <og>
+                <section>rentals</section>
+                <title><![CDATA[Loft Moderno]]></title>
+                <type>website</type>
+                <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
+            </og>
+        </seo>
+
+        <timestamps>
+            <created_at>2026-01-01 12:00:00</created_at>
+            <updated_at>2026-02-04 09:50:13</updated_at>
+        </timestamps>
+    </property>
+
+    <property>
+        <id>8</id>
+        <name><![CDATA[Ático con Terraza]]></name>
+        <slug>tico-con-terraza-8</slug>
+        <location>
+            <id>74</id>
+            <type>1</type>
+            <address>
+                <street><![CDATA[Calle Mayor 1]]></street>
+                <floor><![CDATA[Bajos]]></floor>
+                <zipcode>08003</zipcode>
+            </address>
+            <coordinates>
+                <latitude>41.3024642</latitude>
+                <longitude>2.1008712</longitude>
+            </coordinates>
+        </location>
+
+        <capacity>
+            <space>100</space>
+            <guests>1</guests>
+            <max_people>4</max_people>
+            <bedrooms>4</bedrooms>
+            <bathrooms>2</bathrooms>
+            <wc>1</wc>
+            <units>1</units>
+        </capacity>
+
+        <type_id>5</type_id>
+
+        <checkin>
+            <from>15:00</from>
+            <to>21:00</to>
+        </checkin>
+        <checkout_until>11:00</checkout_until>
+
+        <pricing>
+            <min_price>653.55</min_price>
+            <min_stay>34</min_stay>
+        </pricing>
+
+        <status>
+            <active>1</active>
+            <featured>0</featured>
+            <order_pos>0</order_pos>
+        </status>
+
+        <gallery>
+            <item is_main="true">
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/8/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[Primera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/8/66d9e34a55db0935886401.jpeg]]></url>
+                <alt><![CDATA[segunda imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/8/66d9e34a0357e586694469.jpeg]]></url>
+                <alt><![CDATA[tercera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/8/66d9e349d9ad3620245263.jpeg]]></url>
+                <alt><![CDATA[cuarta imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/8/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[quinta imagen]]></alt>
+            </item>
+        </gallery>
+
+        <Descriptions>
+            <Description LanguageID="1">
+                <![CDATA[
+                Apartamento tranquilo, cerca del transporte público y servicios.
+                ]]>
+            </Description>
+            <Description LanguageID="2">
+                <![CDATA[
+                Apartamento tranquilo, cerca del transporte público y servicios.
+                ]]>
+            </Description>
+            <Description LanguageID="3">
+                <![CDATA[
+                Apartamento tranquilo, cerca del transporte público y servicios.
+                ]]>
+            </Description>
+        </Descriptions>
+
+        <licence>
+            <number>HUTB-000513</number>
+            <info><![CDATA[
+                Licencia turística válida según normativa local.
+            ]]></info>
+        </licence>
+
+        <cancellation_policies><![CDATA[
+            Cancelación gratuita hasta 7 días antes de la llegada.
+        ]]></cancellation_policies>
+
+        <seo>
+            <meta>
+                <section>rentals</section>
+                <title><![CDATA[Ático con Terraza Barcelona]]></title>
+                <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
+                <description><![CDATA[Apartment in Barcelona city center.]]></description>
+            </meta>
+            <og>
+                <section>rentals</section>
+                <title><![CDATA[Ático con Terraza]]></title>
+                <type>website</type>
+                <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
+            </og>
+        </seo>
+
+        <timestamps>
+            <created_at>2026-01-01 12:00:00</created_at>
+            <updated_at>2026-02-04 09:50:13</updated_at>
+        </timestamps>
+    </property>
+
+    <property>
+        <id>9</id>
+        <name><![CDATA[Apartamento Centro]]></name>
+        <slug>apartamento-centro-9</slug>
+        <location>
+            <id>66</id>
+            <type>1</type>
+            <address>
+                <street><![CDATA[Calle Aragón 78]]></street>
+                <floor><![CDATA[1º 1ª]]></floor>
+                <zipcode>08005</zipcode>
+            </address>
+            <coordinates>
+                <latitude>41.3025572</latitude>
+                <longitude>2.1009642</longitude>
+            </coordinates>
+        </location>
+
+        <capacity>
+            <space>30</space>
+            <guests>4</guests>
+            <max_people>8</max_people>
+            <bedrooms>0</bedrooms>
+            <bathrooms>3</bathrooms>
+            <wc>1</wc>
+            <units>1</units>
+        </capacity>
+
+        <type_id>6</type_id>
+
+        <checkin>
+            <from>15:00</from>
+            <to>21:00</to>
+        </checkin>
+        <checkout_until>11:00</checkout_until>
+
+        <pricing>
+            <min_price>682.85</min_price>
+            <min_stay>65</min_stay>
+        </pricing>
+
+        <status>
+            <active>1</active>
+            <featured>0</featured>
+            <order_pos>0</order_pos>
+        </status>
+
+        <gallery>
+            <item is_main="true">
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/9/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[Primera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/9/66d9e34a55db0935886401.jpeg]]></url>
+                <alt><![CDATA[segunda imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/9/66d9e34a0357e586694469.jpeg]]></url>
+                <alt><![CDATA[tercera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/9/66d9e349d9ad3620245263.jpeg]]></url>
+                <alt><![CDATA[cuarta imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/9/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[quinta imagen]]></alt>
+            </item>
+        </gallery>
+
+        <Descriptions>
+            <Description LanguageID="1">
+                <![CDATA[
+                Apartamento tranquilo, cerca del transporte público y servicios.
+                ]]>
+            </Description>
+            <Description LanguageID="2">
+                <![CDATA[
+                Apartamento tranquilo, cerca del transporte público y servicios.
+                ]]>
+            </Description>
+            <Description LanguageID="3">
+                <![CDATA[
+                Apartamento tranquilo, cerca del transporte público y servicios.
+                ]]>
+            </Description>
+        </Descriptions>
+
+        <licence>
+            <number>HUTB-013340</number>
+            <info><![CDATA[
+                Licencia turística válida según normativa local.
+            ]]></info>
+        </licence>
+
+        <cancellation_policies><![CDATA[
+            Cancelación gratuita hasta 7 días antes de la llegada.
+        ]]></cancellation_policies>
+
+        <seo>
+            <meta>
+                <section>rentals</section>
+                <title><![CDATA[Apartamento Centro Barcelona]]></title>
+                <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
+                <description><![CDATA[Apartment in Barcelona city center.]]></description>
+            </meta>
+            <og>
+                <section>rentals</section>
+                <title><![CDATA[Apartamento Centro]]></title>
+                <type>website</type>
+                <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
+            </og>
+        </seo>
+
+        <timestamps>
+            <created_at>2026-01-01 12:00:00</created_at>
+            <updated_at>2026-02-04 09:50:13</updated_at>
+        </timestamps>
+    </property>
+
+    <property>
+        <id>10</id>
+        <name><![CDATA[Estudio Acogedor]]></name>
+        <slug>estudio-acogedor-10</slug>
+        <location>
+            <id>23</id>
+            <type>1</type>
+            <address>
+                <street><![CDATA[Avinguda Diagonal 456]]></street>
+                <floor><![CDATA[2º 1ª]]></floor>
+                <zipcode>08005</zipcode>
+            </address>
+            <coordinates>
+                <latitude>41.3010015</latitude>
+                <longitude>2.1026853</longitude>
+            </coordinates>
+        </location>
+
+        <capacity>
+            <space>33</space>
+            <guests>3</guests>
+            <max_people>3</max_people>
+            <bedrooms>0</bedrooms>
+            <bathrooms>3</bathrooms>
+            <wc>2</wc>
+            <units>1</units>
+        </capacity>
+
+        <type_id>6</type_id>
+
+        <checkin>
+            <from>15:00</from>
+            <to>21:00</to>
+        </checkin>
+        <checkout_until>11:00</checkout_until>
+
+        <pricing>
+            <min_price>442.96</min_price>
+            <min_stay>167</min_stay>
+        </pricing>
+
+        <status>
+            <active>1</active>
+            <featured>0</featured>
+            <order_pos>0</order_pos>
+        </status>
+
+        <gallery>
+            <item is_main="true">
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/10/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[Primera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/10/66d9e34a55db0935886401.jpeg]]></url>
+                <alt><![CDATA[segunda imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/10/66d9e34a0357e586694469.jpeg]]></url>
+                <alt><![CDATA[tercera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/10/66d9e349d9ad3620245263.jpeg]]></url>
+                <alt><![CDATA[cuarta imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/10/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[quinta imagen]]></alt>
+            </item>
+        </gallery>
+
+        <Descriptions>
+            <Description LanguageID="1">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+            <Description LanguageID="2">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+            <Description LanguageID="3">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+        </Descriptions>
+
+        <licence>
+            <number>HUTB-014308</number>
+            <info><![CDATA[
+                Licencia turística válida según normativa local.
+            ]]></info>
+        </licence>
+
+        <cancellation_policies><![CDATA[
+            Cancelación gratuita hasta 7 días antes de la llegada.
+        ]]></cancellation_policies>
+
+        <seo>
+            <meta>
+                <section>rentals</section>
+                <title><![CDATA[Estudio Acogedor Barcelona]]></title>
+                <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
+                <description><![CDATA[Apartment in Barcelona city center.]]></description>
+            </meta>
+            <og>
+                <section>rentals</section>
+                <title><![CDATA[Estudio Acogedor]]></title>
+                <type>website</type>
+                <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
+            </og>
+        </seo>
+
+        <timestamps>
+            <created_at>2026-01-01 12:00:00</created_at>
+            <updated_at>2026-02-04 09:50:13</updated_at>
+        </timestamps>
+    </property>
+
+    <property>
+        <id>11</id>
+        <name><![CDATA[Apartment Example]]></name>
+        <slug>apartment-example-11</slug>
+        <location>
+            <id>90</id>
+            <type>1</type>
+            <address>
+                <street><![CDATA[Avinguda Diagonal 456]]></street>
+                <floor><![CDATA[3º 2ª]]></floor>
+                <zipcode>08005</zipcode>
+            </address>
+            <coordinates>
+                <latitude>41.3010829</latitude>
+                <longitude>2.1027667</longitude>
+            </coordinates>
+        </location>
+
+        <capacity>
+            <space>119</space>
+            <guests>1</guests>
+            <max_people>7</max_people>
+            <bedrooms>4</bedrooms>
+            <bathrooms>2</bathrooms>
+            <wc>2</wc>
+            <units>1</units>
+        </capacity>
+
+        <type_id>4</type_id>
+
+        <checkin>
+            <from>15:00</from>
+            <to>21:00</to>
+        </checkin>
+        <checkout_until>11:00</checkout_until>
+
+        <pricing>
+            <min_price>355.10</min_price>
+            <min_stay>81</min_stay>
+        </pricing>
+
+        <status>
+            <active>1</active>
+            <featured>0</featured>
+            <order_pos>0</order_pos>
+        </status>
+
+        <gallery>
+            <item is_main="true">
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/11/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[Primera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/11/66d9e34a55db0935886401.jpeg]]></url>
+                <alt><![CDATA[segunda imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/11/66d9e34a0357e586694469.jpeg]]></url>
+                <alt><![CDATA[tercera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/11/66d9e349d9ad3620245263.jpeg]]></url>
+                <alt><![CDATA[cuarta imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/11/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[quinta imagen]]></alt>
+            </item>
+        </gallery>
+
+        <Descriptions>
+            <Description LanguageID="1">
+                <![CDATA[
+                Apartamento tranquilo, cerca del transporte público y servicios.
+                ]]>
+            </Description>
+            <Description LanguageID="2">
+                <![CDATA[
+                Apartamento tranquilo, cerca del transporte público y servicios.
+                ]]>
+            </Description>
+            <Description LanguageID="3">
+                <![CDATA[
+                Apartamento tranquilo, cerca del transporte público y servicios.
+                ]]>
+            </Description>
+        </Descriptions>
+
+        <licence>
+            <number>HUTB-024826</number>
+            <info><![CDATA[
+                Licencia turística válida según normativa local.
+            ]]></info>
+        </licence>
+
+        <cancellation_policies><![CDATA[
+            Cancelación gratuita hasta 7 días antes de la llegada.
+        ]]></cancellation_policies>
+
+        <seo>
+            <meta>
+                <section>rentals</section>
+                <title><![CDATA[Apartment Example Barcelona]]></title>
+                <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
+                <description><![CDATA[Apartment in Barcelona city center.]]></description>
+            </meta>
+            <og>
+                <section>rentals</section>
+                <title><![CDATA[Apartment Example]]></title>
+                <type>website</type>
+                <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
+            </og>
+        </seo>
+
+        <timestamps>
+            <created_at>2026-01-01 12:00:00</created_at>
+            <updated_at>2026-02-04 09:50:13</updated_at>
+        </timestamps>
+    </property>
+
+    <property>
+        <id>12</id>
+        <name><![CDATA[Loft Moderno]]></name>
+        <slug>loft-moderno-12</slug>
+        <location>
+            <id>71</id>
+            <type>1</type>
+            <address>
+                <street><![CDATA[Calle Aragón 78]]></street>
+                <floor><![CDATA[4º 3ª]]></floor>
+                <zipcode>08004</zipcode>
+            </address>
+            <coordinates>
+                <latitude>41.3009719</latitude>
+                <longitude>2.1026557</longitude>
+            </coordinates>
+        </location>
+
+        <capacity>
+            <space>101</space>
+            <guests>3</guests>
+            <max_people>7</max_people>
+            <bedrooms>4</bedrooms>
+            <bathrooms>2</bathrooms>
+            <wc>2</wc>
+            <units>1</units>
+        </capacity>
+
+        <type_id>4</type_id>
+
+        <checkin>
+            <from>15:00</from>
+            <to>21:00</to>
+        </checkin>
+        <checkout_until>11:00</checkout_until>
+
+        <pricing>
+            <min_price>1047.00</min_price>
+            <min_stay>51</min_stay>
+        </pricing>
+
+        <status>
+            <active>1</active>
+            <featured>0</featured>
+            <order_pos>0</order_pos>
+        </status>
+
+        <gallery>
+            <item is_main="true">
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/12/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[Primera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/12/66d9e34a55db0935886401.jpeg]]></url>
+                <alt><![CDATA[segunda imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/12/66d9e34a0357e586694469.jpeg]]></url>
+                <alt><![CDATA[tercera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/12/66d9e349d9ad3620245263.jpeg]]></url>
+                <alt><![CDATA[cuarta imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/12/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[quinta imagen]]></alt>
+            </item>
+        </gallery>
+
+        <Descriptions>
+            <Description LanguageID="1">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+            <Description LanguageID="2">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+            <Description LanguageID="3">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+        </Descriptions>
+
+        <licence>
+            <number>HUTB-004240</number>
+            <info><![CDATA[
+                Licencia turística válida según normativa local.
+            ]]></info>
+        </licence>
+
+        <cancellation_policies><![CDATA[
+            Cancelación gratuita hasta 7 días antes de la llegada.
+        ]]></cancellation_policies>
+
+        <seo>
+            <meta>
+                <section>rentals</section>
+                <title><![CDATA[Loft Moderno Barcelona]]></title>
+                <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
+                <description><![CDATA[Apartment in Barcelona city center.]]></description>
+            </meta>
+            <og>
+                <section>rentals</section>
+                <title><![CDATA[Loft Moderno]]></title>
+                <type>website</type>
+                <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
+            </og>
+        </seo>
+
+        <timestamps>
+            <created_at>2026-01-01 12:00:00</created_at>
+            <updated_at>2026-02-04 09:50:13</updated_at>
+        </timestamps>
+    </property>
+
+    <property>
+        <id>13</id>
+        <name><![CDATA[Ático con Terraza]]></name>
+        <slug>tico-con-terraza-13</slug>
+        <location>
+            <id>13</id>
+            <type>1</type>
+            <address>
+                <street><![CDATA[Avinguda Diagonal 456]]></street>
+                <floor><![CDATA[4º 3ª]]></floor>
+                <zipcode>08003</zipcode>
+            </address>
+            <coordinates>
+                <latitude>41.3016606</latitude>
+                <longitude>2.1000676</longitude>
+            </coordinates>
+        </location>
+
+        <capacity>
+            <space>72</space>
+            <guests>2</guests>
+            <max_people>8</max_people>
+            <bedrooms>3</bedrooms>
+            <bathrooms>1</bathrooms>
+            <wc>1</wc>
+            <units>1</units>
+        </capacity>
+
+        <type_id>3</type_id>
+
+        <checkin>
+            <from>15:00</from>
+            <to>21:00</to>
+        </checkin>
+        <checkout_until>11:00</checkout_until>
+
+        <pricing>
+            <min_price>726.19</min_price>
+            <min_stay>98</min_stay>
+        </pricing>
+
+        <status>
+            <active>1</active>
+            <featured>0</featured>
+            <order_pos>0</order_pos>
+        </status>
+
+        <gallery>
+            <item is_main="true">
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/13/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[Primera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/13/66d9e34a55db0935886401.jpeg]]></url>
+                <alt><![CDATA[segunda imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/13/66d9e34a0357e586694469.jpeg]]></url>
+                <alt><![CDATA[tercera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/13/66d9e349d9ad3620245263.jpeg]]></url>
+                <alt><![CDATA[cuarta imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/13/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[quinta imagen]]></alt>
+            </item>
+        </gallery>
+
+        <Descriptions>
+            <Description LanguageID="1">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+            <Description LanguageID="2">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+            <Description LanguageID="3">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+        </Descriptions>
+
+        <licence>
+            <number>HUTB-024704</number>
+            <info><![CDATA[
+                Licencia turística válida según normativa local.
+            ]]></info>
+        </licence>
+
+        <cancellation_policies><![CDATA[
+            Cancelación gratuita hasta 7 días antes de la llegada.
+        ]]></cancellation_policies>
+
+        <seo>
+            <meta>
+                <section>rentals</section>
+                <title><![CDATA[Ático con Terraza Barcelona]]></title>
+                <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
+                <description><![CDATA[Apartment in Barcelona city center.]]></description>
+            </meta>
+            <og>
+                <section>rentals</section>
+                <title><![CDATA[Ático con Terraza]]></title>
+                <type>website</type>
+                <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
+            </og>
+        </seo>
+
+        <timestamps>
+            <created_at>2026-01-01 12:00:00</created_at>
+            <updated_at>2026-02-04 09:50:13</updated_at>
+        </timestamps>
+    </property>
+
+    <property>
+        <id>14</id>
+        <name><![CDATA[Apartamento Centro]]></name>
+        <slug>apartamento-centro-14</slug>
+        <location>
+            <id>38</id>
+            <type>1</type>
+            <address>
+                <street><![CDATA[Calle Aragón 78]]></street>
+                <floor><![CDATA[1º 1ª]]></floor>
+                <zipcode>08001</zipcode>
+            </address>
+            <coordinates>
+                <latitude>41.3006855</latitude>
+                <longitude>2.1023694</longitude>
+            </coordinates>
+        </location>
+
+        <capacity>
+            <space>59</space>
+            <guests>3</guests>
+            <max_people>5</max_people>
+            <bedrooms>1</bedrooms>
+            <bathrooms>3</bathrooms>
+            <wc>2</wc>
+            <units>1</units>
+        </capacity>
+
+        <type_id>3</type_id>
+
+        <checkin>
+            <from>15:00</from>
+            <to>21:00</to>
+        </checkin>
+        <checkout_until>11:00</checkout_until>
+
+        <pricing>
+            <min_price>886.37</min_price>
+            <min_stay>68</min_stay>
+        </pricing>
+
+        <status>
+            <active>1</active>
+            <featured>0</featured>
+            <order_pos>0</order_pos>
+        </status>
+
+        <gallery>
+            <item is_main="true">
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/14/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[Primera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/14/66d9e34a55db0935886401.jpeg]]></url>
+                <alt><![CDATA[segunda imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/14/66d9e34a0357e586694469.jpeg]]></url>
+                <alt><![CDATA[tercera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/14/66d9e349d9ad3620245263.jpeg]]></url>
+                <alt><![CDATA[cuarta imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/14/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[quinta imagen]]></alt>
+            </item>
+        </gallery>
+
+        <Descriptions>
+            <Description LanguageID="1">
+                <![CDATA[
+                Bonito apartamento en el centro, totalmente equipado.
+                ]]>
+            </Description>
+            <Description LanguageID="2">
+                <![CDATA[
+                Bonito apartamento en el centro, totalmente equipado.
+                ]]>
+            </Description>
+            <Description LanguageID="3">
+                <![CDATA[
+                Bonito apartamento en el centro, totalmente equipado.
+                ]]>
+            </Description>
+        </Descriptions>
+
+        <licence>
+            <number>HUTB-025641</number>
+            <info><![CDATA[
+                Licencia turística válida según normativa local.
+            ]]></info>
+        </licence>
+
+        <cancellation_policies><![CDATA[
+            Cancelación gratuita hasta 7 días antes de la llegada.
+        ]]></cancellation_policies>
+
+        <seo>
+            <meta>
+                <section>rentals</section>
+                <title><![CDATA[Apartamento Centro Barcelona]]></title>
+                <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
+                <description><![CDATA[Apartment in Barcelona city center.]]></description>
+            </meta>
+            <og>
+                <section>rentals</section>
+                <title><![CDATA[Apartamento Centro]]></title>
+                <type>website</type>
+                <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
+            </og>
+        </seo>
+
+        <timestamps>
+            <created_at>2026-01-01 12:00:00</created_at>
+            <updated_at>2026-02-04 09:50:13</updated_at>
+        </timestamps>
+    </property>
+
+    <property>
+        <id>15</id>
+        <name><![CDATA[Estudio Acogedor]]></name>
+        <slug>estudio-acogedor-15</slug>
+        <location>
+            <id>75</id>
+            <type>1</type>
+            <address>
+                <street><![CDATA[Avinguda Diagonal 456]]></street>
+                <floor><![CDATA[3º 2ª]]></floor>
+                <zipcode>08004</zipcode>
+            </address>
+            <coordinates>
+                <latitude>41.3014346</latitude>
+                <longitude>2.1031184</longitude>
+            </coordinates>
+        </location>
+
+        <capacity>
+            <space>88</space>
+            <guests>2</guests>
+            <max_people>2</max_people>
+            <bedrooms>4</bedrooms>
+            <bathrooms>3</bathrooms>
+            <wc>1</wc>
+            <units>1</units>
+        </capacity>
+
+        <type_id>6</type_id>
+
+        <checkin>
+            <from>15:00</from>
+            <to>21:00</to>
+        </checkin>
+        <checkout_until>11:00</checkout_until>
+
+        <pricing>
+            <min_price>1169.59</min_price>
+            <min_stay>179</min_stay>
+        </pricing>
+
+        <status>
+            <active>1</active>
+            <featured>0</featured>
+            <order_pos>0</order_pos>
+        </status>
+
+        <gallery>
+            <item is_main="true">
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/15/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[Primera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/15/66d9e34a55db0935886401.jpeg]]></url>
+                <alt><![CDATA[segunda imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/15/66d9e34a0357e586694469.jpeg]]></url>
+                <alt><![CDATA[tercera imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/15/66d9e349d9ad3620245263.jpeg]]></url>
+                <alt><![CDATA[cuarta imagen]]></alt>
+            </item>
+            <item>
+                <url><![CDATA[https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/15/66d9e348175db533394366.jpeg]]></url>
+                <alt><![CDATA[quinta imagen]]></alt>
+            </item>
+        </gallery>
+
+        <Descriptions>
+            <Description LanguageID="1">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+            <Description LanguageID="2">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+            <Description LanguageID="3">
+                <![CDATA[
+                Espacioso y luminoso, ideal para estancias medias y largas.
+                ]]>
+            </Description>
+        </Descriptions>
+
+        <licence>
+            <number>HUTB-006925</number>
+            <info><![CDATA[
+                Licencia turística válida según normativa local.
+            ]]></info>
+        </licence>
+
+        <cancellation_policies><![CDATA[
+            Cancelación gratuita hasta 7 días antes de la llegada.
+        ]]></cancellation_policies>
+
+        <seo>
+            <meta>
+                <section>rentals</section>
+                <title><![CDATA[Estudio Acogedor Barcelona]]></title>
+                <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
+                <description><![CDATA[Apartment in Barcelona city center.]]></description>
+            </meta>
+            <og>
+                <section>rentals</section>
+                <title><![CDATA[Estudio Acogedor]]></title>
+                <type>website</type>
+                <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
+            </og>
+        </seo>
+
+        <timestamps>
+            <created_at>2026-01-01 12:00:00</created_at>
+            <updated_at>2026-02-04 09:50:13</updated_at>
+        </timestamps>
+    </property>
+
 </properties>
