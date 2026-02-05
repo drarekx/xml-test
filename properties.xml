@@ -5,30 +5,30 @@
         <name><![CDATA[Apartment Example]]></name>
         <slug>apartment-example-1</slug>
         <location>
-            <id>10</id>
+            <id>11</id>
             <type>1</type>
             <address>
-                <street><![CDATA[Carrer de Mallorca 123]]></street>
-                <floor><![CDATA[3º 2ª]]></floor>
-                <zipcode>08004</zipcode>
+                <street><![CDATA[Carrer Gran de Gràcia 9]]></street>
+                <floor><![CDATA[4º 3ª]]></floor>
+                <zipcode>08005</zipcode>
             </address>
             <coordinates>
-                <latitude>41.3027826</latitude>
-                <longitude>2.1011896</longitude>
+                <latitude>41.3029918</latitude>
+                <longitude>2.1013988</longitude>
             </coordinates>
         </location>
 
         <capacity>
-            <space>100</space>
-            <guests>2</guests>
-            <max_people>7</max_people>
-            <bedrooms>4</bedrooms>
+            <space>98</space>
+            <guests>1</guests>
+            <max_people>8</max_people>
+            <bedrooms>0</bedrooms>
             <bathrooms>1</bathrooms>
             <wc>1</wc>
             <units>1</units>
         </capacity>
 
-        <type_id>4</type_id>
+        <type_id>5</type_id>
 
         <checkin>
             <from>15:00</from>
@@ -37,8 +37,8 @@
         <checkout_until>11:00</checkout_until>
 
         <pricing>
-            <min_price>1134.39</min_price>
-            <min_stay>151</min_stay>
+            <min_price>1092.31</min_price>
+            <min_stay>82</min_stay>
         </pricing>
 
         <status>
@@ -73,23 +73,23 @@
         <Descriptions>
             <Description LanguageID="1">
                 <![CDATA[
-                Apartamento tranquilo, cerca del transporte público y servicios.
+                Apartamento cómodo, en finca cuidada y bien comunicada.
                 ]]>
             </Description>
             <Description LanguageID="2">
                 <![CDATA[
-                Apartamento tranquilo, cerca del transporte público y servicios.
+                Apartamento cómodo, en finca cuidada y bien comunicada.
                 ]]>
             </Description>
             <Description LanguageID="3">
                 <![CDATA[
-                Apartamento tranquilo, cerca del transporte público y servicios.
+                Apartamento cómodo, en finca cuidada y bien comunicada.
                 ]]>
             </Description>
         </Descriptions>
 
         <licence>
-            <number>HUTB-023576</number>
+            <number>HUTB-027949</number>
             <info><![CDATA[
                 Licencia turística válida según normativa local.
             ]]></info>
@@ -116,7 +116,7 @@
 
         <timestamps>
             <created_at>2026-01-01 12:00:00</created_at>
-            <updated_at>2026-02-04 10:03:36</updated_at>
+            <updated_at>2026-02-05 15:21:44</updated_at>
         </timestamps>
     </property>
 
@@ -125,30 +125,30 @@
         <name><![CDATA[Loft Moderno]]></name>
         <slug>loft-moderno-2</slug>
         <location>
-            <id>11</id>
+            <id>10</id>
             <type>1</type>
             <address>
-                <street><![CDATA[Calle Mayor 1]]></street>
-                <floor><![CDATA[2º 1ª]]></floor>
-                <zipcode>08005</zipcode>
+                <street><![CDATA[Avinguda Diagonal 456]]></street>
+                <floor><![CDATA[4º 3ª]]></floor>
+                <zipcode>08004</zipcode>
             </address>
             <coordinates>
-                <latitude>41.3025025</latitude>
-                <longitude>2.1009096</longitude>
+                <latitude>41.3007197</latitude>
+                <longitude>2.1024035</longitude>
             </coordinates>
         </location>
 
         <capacity>
-            <space>120</space>
+            <space>36</space>
             <guests>1</guests>
-            <max_people>4</max_people>
-            <bedrooms>3</bedrooms>
-            <bathrooms>2</bathrooms>
+            <max_people>7</max_people>
+            <bedrooms>2</bedrooms>
+            <bathrooms>3</bathrooms>
             <wc>2</wc>
             <units>1</units>
         </capacity>
 
-        <type_id>5</type_id>
+        <type_id>2</type_id>
 
         <checkin>
             <from>15:00</from>
@@ -157,8 +157,8 @@
         <checkout_until>11:00</checkout_until>
 
         <pricing>
-            <min_price>1036.39</min_price>
-            <min_stay>58</min_stay>
+            <min_price>327.78</min_price>
+            <min_stay>49</min_stay>
         </pricing>
 
         <status>
@@ -193,23 +193,23 @@
         <Descriptions>
             <Description LanguageID="1">
                 <![CDATA[
-                Espacioso y luminoso, ideal para estancias medias y largas.
+                Zona tranquila con fácil acceso al centro de la ciudad.
                 ]]>
             </Description>
             <Description LanguageID="2">
                 <![CDATA[
-                Espacioso y luminoso, ideal para estancias medias y largas.
+                Zona tranquila con fácil acceso al centro de la ciudad.
                 ]]>
             </Description>
             <Description LanguageID="3">
                 <![CDATA[
-                Espacioso y luminoso, ideal para estancias medias y largas.
+                Zona tranquila con fácil acceso al centro de la ciudad.
                 ]]>
             </Description>
         </Descriptions>
 
         <licence>
-            <number>HUTB-002685</number>
+            <number>HUTB-007715</number>
             <info><![CDATA[
                 Licencia turística válida según normativa local.
             ]]></info>
@@ -236,7 +236,7 @@
 
         <timestamps>
             <created_at>2026-01-01 12:00:00</created_at>
-            <updated_at>2026-02-04 10:03:36</updated_at>
+            <updated_at>2026-02-05 15:21:44</updated_at>
         </timestamps>
     </property>
 
@@ -245,30 +245,30 @@
         <name><![CDATA[Ático con Terraza]]></name>
         <slug>tico-con-terraza-3</slug>
         <location>
-            <id>11</id>
+            <id>10</id>
             <type>1</type>
             <address>
-                <street><![CDATA[Calle Mayor 1]]></street>
-                <floor><![CDATA[3º 2ª]]></floor>
-                <zipcode>08002</zipcode>
+                <street><![CDATA[Calle Aragón 78]]></street>
+                <floor><![CDATA[2º 1ª]]></floor>
+                <zipcode>08001</zipcode>
             </address>
             <coordinates>
-                <latitude>41.3011141</latitude>
-                <longitude>2.1027980</longitude>
+                <latitude>41.3021727</latitude>
+                <longitude>2.1005798</longitude>
             </coordinates>
         </location>
 
         <capacity>
-            <space>68</space>
-            <guests>1</guests>
-            <max_people>8</max_people>
-            <bedrooms>2</bedrooms>
-            <bathrooms>2</bathrooms>
-            <wc>1</wc>
+            <space>98</space>
+            <guests>3</guests>
+            <max_people>3</max_people>
+            <bedrooms>0</bedrooms>
+            <bathrooms>1</bathrooms>
+            <wc>2</wc>
             <units>1</units>
         </capacity>
 
-        <type_id>5</type_id>
+        <type_id>1</type_id>
 
         <checkin>
             <from>15:00</from>
@@ -277,8 +277,8 @@
         <checkout_until>11:00</checkout_until>
 
         <pricing>
-            <min_price>667.23</min_price>
-            <min_stay>34</min_stay>
+            <min_price>441.41</min_price>
+            <min_stay>180</min_stay>
         </pricing>
 
         <status>
@@ -313,23 +313,23 @@
         <Descriptions>
             <Description LanguageID="1">
                 <![CDATA[
-                Apartamento tranquilo, cerca del transporte público y servicios.
+                Apartamento ideal para quienes valoran la tranquilidad.
                 ]]>
             </Description>
             <Description LanguageID="2">
                 <![CDATA[
-                Apartamento tranquilo, cerca del transporte público y servicios.
+                Apartamento ideal para quienes valoran la tranquilidad.
                 ]]>
             </Description>
             <Description LanguageID="3">
                 <![CDATA[
-                Apartamento tranquilo, cerca del transporte público y servicios.
+                Apartamento ideal para quienes valoran la tranquilidad.
                 ]]>
             </Description>
         </Descriptions>
 
         <licence>
-            <number>HUTB-005146</number>
+            <number>HUTB-028225</number>
             <info><![CDATA[
                 Licencia turística válida según normativa local.
             ]]></info>
@@ -356,7 +356,7 @@
 
         <timestamps>
             <created_at>2026-01-01 12:00:00</created_at>
-            <updated_at>2026-02-04 10:03:36</updated_at>
+            <updated_at>2026-02-05 15:21:44</updated_at>
         </timestamps>
     </property>
 
@@ -365,30 +365,30 @@
         <name><![CDATA[Apartamento Centro]]></name>
         <slug>apartamento-centro-4</slug>
         <location>
-            <id>12</id>
+            <id>10</id>
             <type>1</type>
             <address>
-                <street><![CDATA[Carrer de Mallorca 123]]></street>
-                <floor><![CDATA[4º 3ª]]></floor>
-                <zipcode>08003</zipcode>
+                <street><![CDATA[Avinguda Diagonal 456]]></street>
+                <floor><![CDATA[Bajos]]></floor>
+                <zipcode>08004</zipcode>
             </address>
             <coordinates>
-                <latitude>41.3012104</latitude>
-                <longitude>2.1028942</longitude>
+                <latitude>41.3012473</latitude>
+                <longitude>2.1029311</longitude>
             </coordinates>
         </location>
 
         <capacity>
-            <space>30</space>
+            <space>34</space>
             <guests>4</guests>
-            <max_people>5</max_people>
-            <bedrooms>0</bedrooms>
-            <bathrooms>2</bathrooms>
-            <wc>1</wc>
+            <max_people>4</max_people>
+            <bedrooms>3</bedrooms>
+            <bathrooms>1</bathrooms>
+            <wc>2</wc>
             <units>1</units>
         </capacity>
 
-        <type_id>1</type_id>
+        <type_id>4</type_id>
 
         <checkin>
             <from>15:00</from>
@@ -397,8 +397,8 @@
         <checkout_until>11:00</checkout_until>
 
         <pricing>
-            <min_price>729.17</min_price>
-            <min_stay>97</min_stay>
+            <min_price>1098.86</min_price>
+            <min_stay>105</min_stay>
         </pricing>
 
         <status>
@@ -433,23 +433,23 @@
         <Descriptions>
             <Description LanguageID="1">
                 <![CDATA[
-                Apartamento tranquilo, cerca del transporte público y servicios.
+                Espacio bien aprovechado, cómodo y luminoso.
                 ]]>
             </Description>
             <Description LanguageID="2">
                 <![CDATA[
-                Apartamento tranquilo, cerca del transporte público y servicios.
+                Espacio bien aprovechado, cómodo y luminoso.
                 ]]>
             </Description>
             <Description LanguageID="3">
                 <![CDATA[
-                Apartamento tranquilo, cerca del transporte público y servicios.
+                Espacio bien aprovechado, cómodo y luminoso.
                 ]]>
             </Description>
         </Descriptions>
 
         <licence>
-            <number>HUTB-018919</number>
+            <number>HUTB-027176</number>
             <info><![CDATA[
                 Licencia turística válida según normativa local.
             ]]></info>
@@ -476,39 +476,39 @@
 
         <timestamps>
             <created_at>2026-01-01 12:00:00</created_at>
-            <updated_at>2026-02-04 10:03:36</updated_at>
+            <updated_at>2026-02-05 15:21:44</updated_at>
         </timestamps>
     </property>
 
     <property>
         <id>5</id>
-        <name><![CDATA[Estudio Acogedor]]></name>
+        <name><![CDATA[Estudio Acogedor,]]></name>
         <slug>estudio-acogedor-5</slug>
         <location>
-            <id>10</id>
+            <id>12</id>
             <type>1</type>
             <address>
-                <street><![CDATA[Calle Aragón 78]]></street>
-                <floor><![CDATA[2º 1ª]]></floor>
-                <zipcode>08004</zipcode>
+                <street><![CDATA[Avinguda Diagonal 456]]></street>
+                <floor><![CDATA[1º 1ª]]></floor>
+                <zipcode>08003</zipcode>
             </address>
             <coordinates>
-                <latitude>41.3027487</latitude>
-                <longitude>2.1011558</longitude>
+                <latitude>41.3003172</latitude>
+                <longitude>2.1020011</longitude>
             </coordinates>
         </location>
 
         <capacity>
-            <space>34</space>
-            <guests>3</guests>
+            <space>107</space>
+            <guests>4</guests>
             <max_people>4</max_people>
             <bedrooms>3</bedrooms>
             <bathrooms>1</bathrooms>
-            <wc>1</wc>
+            <wc>2</wc>
             <units>1</units>
         </capacity>
 
-        <type_id>1</type_id>
+        <type_id>4</type_id>
 
         <checkin>
             <from>15:00</from>
@@ -517,8 +517,8 @@
         <checkout_until>11:00</checkout_until>
 
         <pricing>
-            <min_price>1084.71</min_price>
-            <min_stay>90</min_stay>
+            <min_price>808.54</min_price>
+            <min_stay>165</min_stay>
         </pricing>
 
         <status>
@@ -553,23 +553,23 @@
         <Descriptions>
             <Description LanguageID="1">
                 <![CDATA[
-                Bonito apartamento en el centro, totalmente equipado.
+                Espacio moderno y confortable.
                 ]]>
             </Description>
             <Description LanguageID="2">
                 <![CDATA[
-                Bonito apartamento en el centro, totalmente equipado.
+                Espacio moderno y confortable.
                 ]]>
             </Description>
             <Description LanguageID="3">
                 <![CDATA[
-                Bonito apartamento en el centro, totalmente equipado.
+                Espacio moderno y confortable.
                 ]]>
             </Description>
         </Descriptions>
 
         <licence>
-            <number>HUTB-019345</number>
+            <number>HUTB-015959</number>
             <info><![CDATA[
                 Licencia turística válida según normativa local.
             ]]></info>
@@ -582,13 +582,13 @@
         <seo>
             <meta>
                 <section>rentals</section>
-                <title><![CDATA[Estudio Acogedor Barcelona]]></title>
+                <title><![CDATA[Estudio Acogedor, Barcelona]]></title>
                 <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
                 <description><![CDATA[Apartment in Barcelona city center.]]></description>
             </meta>
             <og>
                 <section>rentals</section>
-                <title><![CDATA[Estudio Acogedor]]></title>
+                <title><![CDATA[Estudio Acogedor,]]></title>
                 <type>website</type>
                 <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
             </og>
@@ -596,30 +596,30 @@
 
         <timestamps>
             <created_at>2026-01-01 12:00:00</created_at>
-            <updated_at>2026-02-04 10:03:36</updated_at>
+            <updated_at>2026-02-05 15:21:44</updated_at>
         </timestamps>
     </property>
 
     <property>
         <id>6</id>
-        <name><![CDATA[Apartment Example]]></name>
-        <slug>apartment-example-6</slug>
+        <name><![CDATA[Casa con Encanto,]]></name>
+        <slug>casa-con-encanto-6</slug>
         <location>
-            <id>11</id>
+            <id>12</id>
             <type>1</type>
             <address>
-                <street><![CDATA[Carrer de Mallorca 123]]></street>
+                <street><![CDATA[Calle Mayor 1]]></street>
                 <floor><![CDATA[Bajos]]></floor>
-                <zipcode>08002</zipcode>
+                <zipcode>08001</zipcode>
             </address>
             <coordinates>
-                <latitude>41.3007425</latitude>
-                <longitude>2.1024263</longitude>
+                <latitude>41.3004505</latitude>
+                <longitude>2.1021343</longitude>
             </coordinates>
         </location>
 
         <capacity>
-            <space>82</space>
+            <space>74</space>
             <guests>1</guests>
             <max_people>3</max_people>
             <bedrooms>0</bedrooms>
@@ -628,7 +628,7 @@
             <units>1</units>
         </capacity>
 
-        <type_id>2</type_id>
+        <type_id>4</type_id>
 
         <checkin>
             <from>15:00</from>
@@ -637,8 +637,8 @@
         <checkout_until>11:00</checkout_until>
 
         <pricing>
-            <min_price>555.06</min_price>
-            <min_stay>97</min_stay>
+            <min_price>338.86</min_price>
+            <min_stay>58</min_stay>
         </pricing>
 
         <status>
@@ -673,23 +673,23 @@
         <Descriptions>
             <Description LanguageID="1">
                 <![CDATA[
-                Espacioso y luminoso, ideal para estancias medias y largas.
+                Apartamento moderno en barrio residencial.
                 ]]>
             </Description>
             <Description LanguageID="2">
                 <![CDATA[
-                Espacioso y luminoso, ideal para estancias medias y largas.
+                Apartamento moderno en barrio residencial.
                 ]]>
             </Description>
             <Description LanguageID="3">
                 <![CDATA[
-                Espacioso y luminoso, ideal para estancias medias y largas.
+                Apartamento moderno en barrio residencial.
                 ]]>
             </Description>
         </Descriptions>
 
         <licence>
-            <number>HUTB-016765</number>
+            <number>HUTB-026870</number>
             <info><![CDATA[
                 Licencia turística válida según normativa local.
             ]]></info>
@@ -702,13 +702,13 @@
         <seo>
             <meta>
                 <section>rentals</section>
-                <title><![CDATA[Apartment Example Barcelona]]></title>
+                <title><![CDATA[Casa con Encanto, Barcelona]]></title>
                 <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
                 <description><![CDATA[Apartment in Barcelona city center.]]></description>
             </meta>
             <og>
                 <section>rentals</section>
-                <title><![CDATA[Apartment Example]]></title>
+                <title><![CDATA[Casa con Encanto,]]></title>
                 <type>website</type>
                 <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
             </og>
@@ -716,39 +716,39 @@
 
         <timestamps>
             <created_at>2026-01-01 12:00:00</created_at>
-            <updated_at>2026-02-04 10:03:36</updated_at>
+            <updated_at>2026-02-05 15:21:44</updated_at>
         </timestamps>
     </property>
 
     <property>
         <id>7</id>
-        <name><![CDATA[Loft Moderno]]></name>
-        <slug>loft-moderno-7</slug>
+        <name><![CDATA[La concha del mar,]]></name>
+        <slug>la-concha-del-mar-7</slug>
         <location>
-            <id>12</id>
+            <id>11</id>
             <type>1</type>
             <address>
-                <street><![CDATA[Calle Aragón 78]]></street>
-                <floor><![CDATA[2º 1ª]]></floor>
-                <zipcode>08004</zipcode>
+                <street><![CDATA[Calle Mayor 1]]></street>
+                <floor><![CDATA[4º 3ª]]></floor>
+                <zipcode>08005</zipcode>
             </address>
             <coordinates>
-                <latitude>41.3022797</latitude>
-                <longitude>2.1006867</longitude>
+                <latitude>41.3025042</latitude>
+                <longitude>2.1009112</longitude>
             </coordinates>
         </location>
 
         <capacity>
-            <space>75</space>
-            <guests>4</guests>
-            <max_people>8</max_people>
-            <bedrooms>4</bedrooms>
-            <bathrooms>2</bathrooms>
-            <wc>2</wc>
+            <space>46</space>
+            <guests>2</guests>
+            <max_people>2</max_people>
+            <bedrooms>0</bedrooms>
+            <bathrooms>1</bathrooms>
+            <wc>1</wc>
             <units>1</units>
         </capacity>
 
-        <type_id>2</type_id>
+        <type_id>4</type_id>
 
         <checkin>
             <from>15:00</from>
@@ -757,8 +757,8 @@
         <checkout_until>11:00</checkout_until>
 
         <pricing>
-            <min_price>610.10</min_price>
-            <min_stay>169</min_stay>
+            <min_price>1053.55</min_price>
+            <min_stay>75</min_stay>
         </pricing>
 
         <status>
@@ -793,23 +793,23 @@
         <Descriptions>
             <Description LanguageID="1">
                 <![CDATA[
-                Espacioso y luminoso, ideal para estancias medias y largas.
+                Vivienda cómoda, lista para disfrutar desde el primer día.
                 ]]>
             </Description>
             <Description LanguageID="2">
                 <![CDATA[
-                Espacioso y luminoso, ideal para estancias medias y largas.
+                Vivienda cómoda, lista para disfrutar desde el primer día.
                 ]]>
             </Description>
             <Description LanguageID="3">
                 <![CDATA[
-                Espacioso y luminoso, ideal para estancias medias y largas.
+                Vivienda cómoda, lista para disfrutar desde el primer día.
                 ]]>
             </Description>
         </Descriptions>
 
         <licence>
-            <number>HUTB-009566</number>
+            <number>HUTB-011917</number>
             <info><![CDATA[
                 Licencia turística válida según normativa local.
             ]]></info>
@@ -822,13 +822,13 @@
         <seo>
             <meta>
                 <section>rentals</section>
-                <title><![CDATA[Loft Moderno Barcelona]]></title>
+                <title><![CDATA[La concha del mar, Barcelona]]></title>
                 <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
                 <description><![CDATA[Apartment in Barcelona city center.]]></description>
             </meta>
             <og>
                 <section>rentals</section>
-                <title><![CDATA[Loft Moderno]]></title>
+                <title><![CDATA[La concha del mar,]]></title>
                 <type>website</type>
                 <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
             </og>
@@ -836,33 +836,33 @@
 
         <timestamps>
             <created_at>2026-01-01 12:00:00</created_at>
-            <updated_at>2026-02-04 10:03:36</updated_at>
+            <updated_at>2026-02-05 15:21:44</updated_at>
         </timestamps>
     </property>
 
     <property>
         <id>8</id>
-        <name><![CDATA[Ático con Terraza]]></name>
-        <slug>tico-con-terraza-8</slug>
+        <name><![CDATA[Pura vida,]]></name>
+        <slug>pura-vida-8</slug>
         <location>
-            <id>10</id>
+            <id>12</id>
             <type>1</type>
             <address>
-                <street><![CDATA[Avinguda Diagonal 456]]></street>
-                <floor><![CDATA[2º 1ª]]></floor>
-                <zipcode>08001</zipcode>
+                <street><![CDATA[Carrer Gran de Gràcia 9]]></street>
+                <floor><![CDATA[4º 3ª]]></floor>
+                <zipcode>08005</zipcode>
             </address>
             <coordinates>
-                <latitude>41.3021467</latitude>
-                <longitude>2.1005538</longitude>
+                <latitude>41.3016373</latitude>
+                <longitude>2.1000444</longitude>
             </coordinates>
         </location>
 
         <capacity>
-            <space>111</space>
-            <guests>3</guests>
-            <max_people>8</max_people>
-            <bedrooms>0</bedrooms>
+            <space>113</space>
+            <guests>1</guests>
+            <max_people>7</max_people>
+            <bedrooms>1</bedrooms>
             <bathrooms>2</bathrooms>
             <wc>2</wc>
             <units>1</units>
@@ -877,8 +877,8 @@
         <checkout_until>11:00</checkout_until>
 
         <pricing>
-            <min_price>1082.81</min_price>
-            <min_stay>100</min_stay>
+            <min_price>493.87</min_price>
+            <min_stay>46</min_stay>
         </pricing>
 
         <status>
@@ -913,23 +913,23 @@
         <Descriptions>
             <Description LanguageID="1">
                 <![CDATA[
-                Espacioso y luminoso, ideal para estancias medias y largas.
+                Zona tranquila con fácil acceso al centro de la ciudad.
                 ]]>
             </Description>
             <Description LanguageID="2">
                 <![CDATA[
-                Espacioso y luminoso, ideal para estancias medias y largas.
+                Zona tranquila con fácil acceso al centro de la ciudad.
                 ]]>
             </Description>
             <Description LanguageID="3">
                 <![CDATA[
-                Espacioso y luminoso, ideal para estancias medias y largas.
+                Zona tranquila con fácil acceso al centro de la ciudad.
                 ]]>
             </Description>
         </Descriptions>
 
         <licence>
-            <number>HUTB-026459</number>
+            <number>HUTB-002061</number>
             <info><![CDATA[
                 Licencia turística válida según normativa local.
             ]]></info>
@@ -942,13 +942,13 @@
         <seo>
             <meta>
                 <section>rentals</section>
-                <title><![CDATA[Ático con Terraza Barcelona]]></title>
+                <title><![CDATA[Pura vida, Barcelona]]></title>
                 <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
                 <description><![CDATA[Apartment in Barcelona city center.]]></description>
             </meta>
             <og>
                 <section>rentals</section>
-                <title><![CDATA[Ático con Terraza]]></title>
+                <title><![CDATA[Pura vida,]]></title>
                 <type>website</type>
                 <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
             </og>
@@ -956,39 +956,39 @@
 
         <timestamps>
             <created_at>2026-01-01 12:00:00</created_at>
-            <updated_at>2026-02-04 10:03:36</updated_at>
+            <updated_at>2026-02-05 15:21:44</updated_at>
         </timestamps>
     </property>
 
     <property>
         <id>9</id>
-        <name><![CDATA[Apartamento Centro]]></name>
-        <slug>apartamento-centro-9</slug>
+        <name><![CDATA[Sueños dorados,]]></name>
+        <slug>sueos-dorados-9</slug>
         <location>
-            <id>10</id>
+            <id>11</id>
             <type>1</type>
             <address>
-                <street><![CDATA[Avinguda Diagonal 456]]></street>
-                <floor><![CDATA[Bajos]]></floor>
+                <street><![CDATA[Carrer Gran de Gràcia 9]]></street>
+                <floor><![CDATA[3º 2ª]]></floor>
                 <zipcode>08001</zipcode>
             </address>
             <coordinates>
-                <latitude>41.3028308</latitude>
-                <longitude>2.1012378</longitude>
+                <latitude>41.3006374</latitude>
+                <longitude>2.1023212</longitude>
             </coordinates>
         </location>
 
         <capacity>
-            <space>31</space>
+            <space>33</space>
             <guests>2</guests>
-            <max_people>2</max_people>
-            <bedrooms>4</bedrooms>
-            <bathrooms>3</bathrooms>
-            <wc>2</wc>
+            <max_people>3</max_people>
+            <bedrooms>0</bedrooms>
+            <bathrooms>2</bathrooms>
+            <wc>1</wc>
             <units>1</units>
         </capacity>
 
-        <type_id>6</type_id>
+        <type_id>2</type_id>
 
         <checkin>
             <from>15:00</from>
@@ -997,8 +997,8 @@
         <checkout_until>11:00</checkout_until>
 
         <pricing>
-            <min_price>1004.92</min_price>
-            <min_stay>11</min_stay>
+            <min_price>405.56</min_price>
+            <min_stay>127</min_stay>
         </pricing>
 
         <status>
@@ -1033,23 +1033,23 @@
         <Descriptions>
             <Description LanguageID="1">
                 <![CDATA[
-                Bonito apartamento en el centro, totalmente equipado.
+                Luminoso y funcional, pensado para estancias cómodas.
                 ]]>
             </Description>
             <Description LanguageID="2">
                 <![CDATA[
-                Bonito apartamento en el centro, totalmente equipado.
+                Luminoso y funcional, pensado para estancias cómodas.
                 ]]>
             </Description>
             <Description LanguageID="3">
                 <![CDATA[
-                Bonito apartamento en el centro, totalmente equipado.
+                Luminoso y funcional, pensado para estancias cómodas.
                 ]]>
             </Description>
         </Descriptions>
 
         <licence>
-            <number>HUTB-022036</number>
+            <number>HUTB-022673</number>
             <info><![CDATA[
                 Licencia turística válida según normativa local.
             ]]></info>
@@ -1062,13 +1062,13 @@
         <seo>
             <meta>
                 <section>rentals</section>
-                <title><![CDATA[Apartamento Centro Barcelona]]></title>
+                <title><![CDATA[Sueños dorados, Barcelona]]></title>
                 <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
                 <description><![CDATA[Apartment in Barcelona city center.]]></description>
             </meta>
             <og>
                 <section>rentals</section>
-                <title><![CDATA[Apartamento Centro]]></title>
+                <title><![CDATA[Sueños dorados,]]></title>
                 <type>website</type>
                 <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
             </og>
@@ -1076,39 +1076,39 @@
 
         <timestamps>
             <created_at>2026-01-01 12:00:00</created_at>
-            <updated_at>2026-02-04 10:03:36</updated_at>
+            <updated_at>2026-02-05 15:21:44</updated_at>
         </timestamps>
     </property>
 
     <property>
         <id>10</id>
-        <name><![CDATA[Estudio Acogedor]]></name>
-        <slug>estudio-acogedor-10</slug>
+        <name><![CDATA[Alibaba y la cabra,]]></name>
+        <slug>alibaba-y-la-cabra-10</slug>
         <location>
-            <id>10</id>
+            <id>11</id>
             <type>1</type>
             <address>
-                <street><![CDATA[Avinguda Diagonal 456]]></street>
-                <floor><![CDATA[Bajos]]></floor>
-                <zipcode>08005</zipcode>
+                <street><![CDATA[Calle Aragón 78]]></street>
+                <floor><![CDATA[2º 1ª]]></floor>
+                <zipcode>08001</zipcode>
             </address>
             <coordinates>
-                <latitude>41.3004795</latitude>
-                <longitude>2.1021633</longitude>
+                <latitude>41.3012957</latitude>
+                <longitude>2.1029796</longitude>
             </coordinates>
         </location>
 
         <capacity>
-            <space>91</space>
-            <guests>3</guests>
-            <max_people>3</max_people>
-            <bedrooms>0</bedrooms>
-            <bathrooms>1</bathrooms>
+            <space>64</space>
+            <guests>1</guests>
+            <max_people>7</max_people>
+            <bedrooms>3</bedrooms>
+            <bathrooms>3</bathrooms>
             <wc>2</wc>
             <units>1</units>
         </capacity>
 
-        <type_id>6</type_id>
+        <type_id>3</type_id>
 
         <checkin>
             <from>15:00</from>
@@ -1117,8 +1117,8 @@
         <checkout_until>11:00</checkout_until>
 
         <pricing>
-            <min_price>628.76</min_price>
-            <min_stay>167</min_stay>
+            <min_price>681.71</min_price>
+            <min_stay>50</min_stay>
         </pricing>
 
         <status>
@@ -1153,23 +1153,23 @@
         <Descriptions>
             <Description LanguageID="1">
                 <![CDATA[
-                Apartamento tranquilo, cerca del transporte público y servicios.
+                Espacio bien aprovechado, cómodo y luminoso.
                 ]]>
             </Description>
             <Description LanguageID="2">
                 <![CDATA[
-                Apartamento tranquilo, cerca del transporte público y servicios.
+                Espacio bien aprovechado, cómodo y luminoso.
                 ]]>
             </Description>
             <Description LanguageID="3">
                 <![CDATA[
-                Apartamento tranquilo, cerca del transporte público y servicios.
+                Espacio bien aprovechado, cómodo y luminoso.
                 ]]>
             </Description>
         </Descriptions>
 
         <licence>
-            <number>HUTB-012448</number>
+            <number>HUTB-013215</number>
             <info><![CDATA[
                 Licencia turística válida según normativa local.
             ]]></info>
@@ -1182,13 +1182,13 @@
         <seo>
             <meta>
                 <section>rentals</section>
-                <title><![CDATA[Estudio Acogedor Barcelona]]></title>
+                <title><![CDATA[Alibaba y la cabra, Barcelona]]></title>
                 <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
                 <description><![CDATA[Apartment in Barcelona city center.]]></description>
             </meta>
             <og>
                 <section>rentals</section>
-                <title><![CDATA[Estudio Acogedor]]></title>
+                <title><![CDATA[Alibaba y la cabra,]]></title>
                 <type>website</type>
                 <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
             </og>
@@ -1196,39 +1196,39 @@
 
         <timestamps>
             <created_at>2026-01-01 12:00:00</created_at>
-            <updated_at>2026-02-04 10:03:36</updated_at>
+            <updated_at>2026-02-05 15:21:44</updated_at>
         </timestamps>
     </property>
 
     <property>
         <id>11</id>
-        <name><![CDATA[Apartment Example]]></name>
-        <slug>apartment-example-11</slug>
+        <name><![CDATA[Ático y sus cosas,]]></name>
+        <slug>tico-y-sus-cosas-11</slug>
         <location>
             <id>12</id>
             <type>1</type>
             <address>
-                <street><![CDATA[Calle Aragón 78]]></street>
-                <floor><![CDATA[4º 3ª]]></floor>
-                <zipcode>08004</zipcode>
+                <street><![CDATA[Avinguda Diagonal 456]]></street>
+                <floor><![CDATA[2º 1ª]]></floor>
+                <zipcode>08003</zipcode>
             </address>
             <coordinates>
-                <latitude>41.3007445</latitude>
-                <longitude>2.1024283</longitude>
+                <latitude>41.3003182</latitude>
+                <longitude>2.1020020</longitude>
             </coordinates>
         </location>
 
         <capacity>
-            <space>102</space>
-            <guests>1</guests>
-            <max_people>7</max_people>
-            <bedrooms>0</bedrooms>
+            <space>117</space>
+            <guests>2</guests>
+            <max_people>3</max_people>
+            <bedrooms>3</bedrooms>
             <bathrooms>2</bathrooms>
-            <wc>2</wc>
+            <wc>1</wc>
             <units>1</units>
         </capacity>
 
-        <type_id>4</type_id>
+        <type_id>1</type_id>
 
         <checkin>
             <from>15:00</from>
@@ -1237,8 +1237,8 @@
         <checkout_until>11:00</checkout_until>
 
         <pricing>
-            <min_price>575.26</min_price>
-            <min_stay>117</min_stay>
+            <min_price>817.63</min_price>
+            <min_stay>175</min_stay>
         </pricing>
 
         <status>
@@ -1273,23 +1273,23 @@
         <Descriptions>
             <Description LanguageID="1">
                 <![CDATA[
-                Bonito apartamento en el centro, totalmente equipado.
+                Espacio acogedor en una zona práctica y bien comunicada.
                 ]]>
             </Description>
             <Description LanguageID="2">
                 <![CDATA[
-                Bonito apartamento en el centro, totalmente equipado.
+                Espacio acogedor en una zona práctica y bien comunicada.
                 ]]>
             </Description>
             <Description LanguageID="3">
                 <![CDATA[
-                Bonito apartamento en el centro, totalmente equipado.
+                Espacio acogedor en una zona práctica y bien comunicada.
                 ]]>
             </Description>
         </Descriptions>
 
         <licence>
-            <number>HUTB-025917</number>
+            <number>HUTB-025226</number>
             <info><![CDATA[
                 Licencia turística válida según normativa local.
             ]]></info>
@@ -1302,13 +1302,13 @@
         <seo>
             <meta>
                 <section>rentals</section>
-                <title><![CDATA[Apartment Example Barcelona]]></title>
+                <title><![CDATA[Ático y sus cosas, Barcelona]]></title>
                 <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
                 <description><![CDATA[Apartment in Barcelona city center.]]></description>
             </meta>
             <og>
                 <section>rentals</section>
-                <title><![CDATA[Apartment Example]]></title>
+                <title><![CDATA[Ático y sus cosas,]]></title>
                 <type>website</type>
                 <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
             </og>
@@ -1316,39 +1316,39 @@
 
         <timestamps>
             <created_at>2026-01-01 12:00:00</created_at>
-            <updated_at>2026-02-04 10:03:36</updated_at>
+            <updated_at>2026-02-05 15:21:44</updated_at>
         </timestamps>
     </property>
 
     <property>
         <id>12</id>
-        <name><![CDATA[Loft Moderno]]></name>
-        <slug>loft-moderno-12</slug>
+        <name><![CDATA[Maravilla de casa,]]></name>
+        <slug>maravilla-de-casa-12</slug>
         <location>
-            <id>12</id>
+            <id>11</id>
             <type>1</type>
             <address>
-                <street><![CDATA[Carrer Gran de Gràcia 9]]></street>
-                <floor><![CDATA[2º 1ª]]></floor>
-                <zipcode>08003</zipcode>
+                <street><![CDATA[Avinguda Diagonal 456]]></street>
+                <floor><![CDATA[3º 2ª]]></floor>
+                <zipcode>08002</zipcode>
             </address>
             <coordinates>
-                <latitude>41.3017396</latitude>
-                <longitude>2.1001467</longitude>
+                <latitude>41.3008557</latitude>
+                <longitude>2.1025395</longitude>
             </coordinates>
         </location>
 
         <capacity>
-            <space>44</space>
-            <guests>4</guests>
-            <max_people>8</max_people>
-            <bedrooms>4</bedrooms>
-            <bathrooms>2</bathrooms>
+            <space>32</space>
+            <guests>1</guests>
+            <max_people>7</max_people>
+            <bedrooms>3</bedrooms>
+            <bathrooms>1</bathrooms>
             <wc>2</wc>
             <units>1</units>
         </capacity>
 
-        <type_id>2</type_id>
+        <type_id>1</type_id>
 
         <checkin>
             <from>15:00</from>
@@ -1357,8 +1357,8 @@
         <checkout_until>11:00</checkout_until>
 
         <pricing>
-            <min_price>616.10</min_price>
-            <min_stay>169</min_stay>
+            <min_price>505.09</min_price>
+            <min_stay>68</min_stay>
         </pricing>
 
         <status>
@@ -1393,23 +1393,23 @@
         <Descriptions>
             <Description LanguageID="1">
                 <![CDATA[
-                Bonito apartamento en el centro, totalmente equipado.
+                Espacio acogedor con buena iluminación natural.
                 ]]>
             </Description>
             <Description LanguageID="2">
                 <![CDATA[
-                Bonito apartamento en el centro, totalmente equipado.
+                Espacio acogedor con buena iluminación natural.
                 ]]>
             </Description>
             <Description LanguageID="3">
                 <![CDATA[
-                Bonito apartamento en el centro, totalmente equipado.
+                Espacio acogedor con buena iluminación natural.
                 ]]>
             </Description>
         </Descriptions>
 
         <licence>
-            <number>HUTB-014574</number>
+            <number>HUTB-005466</number>
             <info><![CDATA[
                 Licencia turística válida según normativa local.
             ]]></info>
@@ -1422,13 +1422,13 @@
         <seo>
             <meta>
                 <section>rentals</section>
-                <title><![CDATA[Loft Moderno Barcelona]]></title>
+                <title><![CDATA[Maravilla de casa, Barcelona]]></title>
                 <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
                 <description><![CDATA[Apartment in Barcelona city center.]]></description>
             </meta>
             <og>
                 <section>rentals</section>
-                <title><![CDATA[Loft Moderno]]></title>
+                <title><![CDATA[Maravilla de casa,]]></title>
                 <type>website</type>
                 <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
             </og>
@@ -1436,33 +1436,33 @@
 
         <timestamps>
             <created_at>2026-01-01 12:00:00</created_at>
-            <updated_at>2026-02-04 10:03:36</updated_at>
+            <updated_at>2026-02-05 15:21:45</updated_at>
         </timestamps>
     </property>
 
     <property>
         <id>13</id>
-        <name><![CDATA[Ático con Terraza]]></name>
-        <slug>tico-con-terraza-13</slug>
+        <name><![CDATA[Casa en Murcia,]]></name>
+        <slug>casa-en-murcia-13</slug>
         <location>
-            <id>11</id>
+            <id>12</id>
             <type>1</type>
             <address>
-                <street><![CDATA[Carrer de Mallorca 123]]></street>
-                <floor><![CDATA[4º 3ª]]></floor>
-                <zipcode>08002</zipcode>
+                <street><![CDATA[Carrer Gran de Gràcia 9]]></street>
+                <floor><![CDATA[3º 2ª]]></floor>
+                <zipcode>08004</zipcode>
             </address>
             <coordinates>
-                <latitude>41.3005830</latitude>
-                <longitude>2.1022669</longitude>
+                <latitude>41.3010726</latitude>
+                <longitude>2.1027564</longitude>
             </coordinates>
         </location>
 
         <capacity>
-            <space>35</space>
+            <space>108</space>
             <guests>2</guests>
-            <max_people>6</max_people>
-            <bedrooms>1</bedrooms>
+            <max_people>8</max_people>
+            <bedrooms>2</bedrooms>
             <bathrooms>1</bathrooms>
             <wc>1</wc>
             <units>1</units>
@@ -1477,8 +1477,8 @@
         <checkout_until>11:00</checkout_until>
 
         <pricing>
-            <min_price>762.12</min_price>
-            <min_stay>123</min_stay>
+            <min_price>1153.07</min_price>
+            <min_stay>159</min_stay>
         </pricing>
 
         <status>
@@ -1513,23 +1513,23 @@
         <Descriptions>
             <Description LanguageID="1">
                 <![CDATA[
-                Apartamento tranquilo, cerca del transporte público y servicios.
+                Apartamento ideal para estancias temporales.
                 ]]>
             </Description>
             <Description LanguageID="2">
                 <![CDATA[
-                Apartamento tranquilo, cerca del transporte público y servicios.
+                Apartamento ideal para estancias temporales.
                 ]]>
             </Description>
             <Description LanguageID="3">
                 <![CDATA[
-                Apartamento tranquilo, cerca del transporte público y servicios.
+                Apartamento ideal para estancias temporales.
                 ]]>
             </Description>
         </Descriptions>
 
         <licence>
-            <number>HUTB-001016</number>
+            <number>HUTB-023980</number>
             <info><![CDATA[
                 Licencia turística válida según normativa local.
             ]]></info>
@@ -1542,13 +1542,13 @@
         <seo>
             <meta>
                 <section>rentals</section>
-                <title><![CDATA[Ático con Terraza Barcelona]]></title>
+                <title><![CDATA[Casa en Murcia, Barcelona]]></title>
                 <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
                 <description><![CDATA[Apartment in Barcelona city center.]]></description>
             </meta>
             <og>
                 <section>rentals</section>
-                <title><![CDATA[Ático con Terraza]]></title>
+                <title><![CDATA[Casa en Murcia,]]></title>
                 <type>website</type>
                 <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
             </og>
@@ -1556,39 +1556,39 @@
 
         <timestamps>
             <created_at>2026-01-01 12:00:00</created_at>
-            <updated_at>2026-02-04 10:03:36</updated_at>
+            <updated_at>2026-02-05 15:21:45</updated_at>
         </timestamps>
     </property>
 
     <property>
         <id>14</id>
-        <name><![CDATA[Apartamento Centro]]></name>
-        <slug>apartamento-centro-14</slug>
+        <name><![CDATA[Pisito franco,]]></name>
+        <slug>pisito-franco-14</slug>
         <location>
-            <id>10</id>
+            <id>11</id>
             <type>1</type>
             <address>
-                <street><![CDATA[Calle Mayor 1]]></street>
-                <floor><![CDATA[Bajos]]></floor>
+                <street><![CDATA[Avinguda Diagonal 456]]></street>
+                <floor><![CDATA[1º 1ª]]></floor>
                 <zipcode>08004</zipcode>
             </address>
             <coordinates>
-                <latitude>41.3007535</latitude>
-                <longitude>2.1024374</longitude>
+                <latitude>41.3004832</latitude>
+                <longitude>2.1021670</longitude>
             </coordinates>
         </location>
 
         <capacity>
-            <space>102</space>
-            <guests>3</guests>
+            <space>38</space>
+            <guests>4</guests>
             <max_people>8</max_people>
-            <bedrooms>1</bedrooms>
+            <bedrooms>2</bedrooms>
             <bathrooms>2</bathrooms>
             <wc>1</wc>
             <units>1</units>
         </capacity>
 
-        <type_id>5</type_id>
+        <type_id>1</type_id>
 
         <checkin>
             <from>15:00</from>
@@ -1597,8 +1597,8 @@
         <checkout_until>11:00</checkout_until>
 
         <pricing>
-            <min_price>665.17</min_price>
-            <min_stay>28</min_stay>
+            <min_price>665.13</min_price>
+            <min_stay>25</min_stay>
         </pricing>
 
         <status>
@@ -1633,23 +1633,23 @@
         <Descriptions>
             <Description LanguageID="1">
                 <![CDATA[
-                Espacioso y luminoso, ideal para estancias medias y largas.
+                Espacio acogedor con buena iluminación natural.
                 ]]>
             </Description>
             <Description LanguageID="2">
                 <![CDATA[
-                Espacioso y luminoso, ideal para estancias medias y largas.
+                Espacio acogedor con buena iluminación natural.
                 ]]>
             </Description>
             <Description LanguageID="3">
                 <![CDATA[
-                Espacioso y luminoso, ideal para estancias medias y largas.
+                Espacio acogedor con buena iluminación natural.
                 ]]>
             </Description>
         </Descriptions>
 
         <licence>
-            <number>HUTB-013449</number>
+            <number>HUTB-012634</number>
             <info><![CDATA[
                 Licencia turística válida según normativa local.
             ]]></info>
@@ -1662,13 +1662,13 @@
         <seo>
             <meta>
                 <section>rentals</section>
-                <title><![CDATA[Apartamento Centro Barcelona]]></title>
+                <title><![CDATA[Pisito franco, Barcelona]]></title>
                 <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
                 <description><![CDATA[Apartment in Barcelona city center.]]></description>
             </meta>
             <og>
                 <section>rentals</section>
-                <title><![CDATA[Apartamento Centro]]></title>
+                <title><![CDATA[Pisito franco,]]></title>
                 <type>website</type>
                 <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
             </og>
@@ -1676,39 +1676,39 @@
 
         <timestamps>
             <created_at>2026-01-01 12:00:00</created_at>
-            <updated_at>2026-02-04 10:03:36</updated_at>
+            <updated_at>2026-02-05 15:21:45</updated_at>
         </timestamps>
     </property>
 
     <property>
         <id>15</id>
-        <name><![CDATA[Estudio Acogedor]]></name>
-        <slug>estudio-acogedor-15</slug>
+        <name><![CDATA[Casa Soltero,]]></name>
+        <slug>casa-soltero-15</slug>
         <location>
-            <id>11</id>
+            <id>12</id>
             <type>1</type>
             <address>
-                <street><![CDATA[Carrer de Mallorca 123]]></street>
-                <floor><![CDATA[4º 3ª]]></floor>
-                <zipcode>08002</zipcode>
+                <street><![CDATA[Avinguda Diagonal 456]]></street>
+                <floor><![CDATA[Bajos]]></floor>
+                <zipcode>08004</zipcode>
             </address>
             <coordinates>
-                <latitude>41.3018201</latitude>
-                <longitude>2.1002272</longitude>
+                <latitude>41.3012533</latitude>
+                <longitude>2.1029371</longitude>
             </coordinates>
         </location>
 
         <capacity>
-            <space>30</space>
+            <space>95</space>
             <guests>1</guests>
-            <max_people>4</max_people>
+            <max_people>7</max_people>
             <bedrooms>4</bedrooms>
-            <bathrooms>3</bathrooms>
-            <wc>1</wc>
+            <bathrooms>2</bathrooms>
+            <wc>2</wc>
             <units>1</units>
         </capacity>
 
-        <type_id>3</type_id>
+        <type_id>5</type_id>
 
         <checkin>
             <from>15:00</from>
@@ -1717,8 +1717,8 @@
         <checkout_until>11:00</checkout_until>
 
         <pricing>
-            <min_price>519.15</min_price>
-            <min_stay>74</min_stay>
+            <min_price>1158.47</min_price>
+            <min_stay>166</min_stay>
         </pricing>
 
         <status>
@@ -1753,23 +1753,23 @@
         <Descriptions>
             <Description LanguageID="1">
                 <![CDATA[
-                Bonito apartamento en el centro, totalmente equipado.
+                Apartamento práctico y bien distribuido.
                 ]]>
             </Description>
             <Description LanguageID="2">
                 <![CDATA[
-                Bonito apartamento en el centro, totalmente equipado.
+                Apartamento práctico y bien distribuido.
                 ]]>
             </Description>
             <Description LanguageID="3">
                 <![CDATA[
-                Bonito apartamento en el centro, totalmente equipado.
+                Apartamento práctico y bien distribuido.
                 ]]>
             </Description>
         </Descriptions>
 
         <licence>
-            <number>HUTB-009109</number>
+            <number>HUTB-016782</number>
             <info><![CDATA[
                 Licencia turística válida según normativa local.
             ]]></info>
@@ -1782,13 +1782,13 @@
         <seo>
             <meta>
                 <section>rentals</section>
-                <title><![CDATA[Estudio Acogedor Barcelona]]></title>
+                <title><![CDATA[Casa Soltero, Barcelona]]></title>
                 <keywords><![CDATA[apartment, barcelona, rental]]></keywords>
                 <description><![CDATA[Apartment in Barcelona city center.]]></description>
             </meta>
             <og>
                 <section>rentals</section>
-                <title><![CDATA[Estudio Acogedor]]></title>
+                <title><![CDATA[Casa Soltero,]]></title>
                 <type>website</type>
                 <description><![CDATA[Beautiful apartment in Barcelona.]]></description>
             </og>
@@ -1796,7 +1796,7 @@
 
         <timestamps>
             <created_at>2026-01-01 12:00:00</created_at>
-            <updated_at>2026-02-04 10:03:36</updated_at>
+            <updated_at>2026-02-05 15:21:45</updated_at>
         </timestamps>
     </property>
 
