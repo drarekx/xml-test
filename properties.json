@@ -1,0 +1,403 @@
+{
+  "properties": [
+{
+  "id": 1,
+  "name": "Apartment Example",
+  "slug": "apartment-example-1",
+  "location": {
+    "id": 11,
+    "type": 1,
+    "address": {
+      "street": "Calle Arag\u00f3n 78",
+      "floor": "Bajos",
+      "zipcode": "08004"
+    },
+    "coordinates": {
+      "latitude": 41.3028680,
+      "longitude": 2.1012751
+    }
+  },
+  "capacity": {
+    "space": 44,
+    "guests": 4,
+    "max_people": 7,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "wc": 2,
+    "units": 1
+  },
+  "type_id": 6,
+  "checkin": {
+    "from": "15:00",
+    "to": "21:00"
+  },
+  "checkout_until": "11:00",
+  "pricing": {
+    "min_price": 755.94,
+    "min_stay": 105
+  },
+  "status": {
+    "active": 1,
+    "featured": 0,
+    "order_pos": 0
+  },
+  "gallery": [
+    {
+      "is_main": true,
+      "url": "https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/1/66d9e348175db533394366.jpeg",
+      "alt": "Primera imagen"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/1/66d9e34a55db0935886401.jpeg",
+      "alt": "segunda imagen"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/1/66d9e34a0357e586694469.jpeg",
+      "alt": "tercera imagen"
+    }
+  ],
+  "descriptions": {
+    "es": "Apartamento pensado para una estancia agradable.",
+    "ca": "Apartamento pensado para una estancia agradable.",
+    "en": "Apartamento pensado para una estancia agradable."
+  },
+  "licence": {
+    "number": "HUTB-032174",
+    "info": "Licencia turística válida según normativa local."
+  },
+  "cancellation_policies": "Cancelación gratuita hasta 7 días antes de la llegada.",
+  "seo": {
+    "meta": {
+      "section": "rentals",
+      "title": "Apartment Example Barcelona",
+      "keywords": "apartment, barcelona, rental",
+      "description": "Apartment in Barcelona city center."
+    }
+  },
+  "timestamps": {
+    "created_at": "2026-01-01 12:00:00",
+    "updated_at": "2026-02-09 09:57:02"
+  }
+}
+,
+{
+  "id": 2,
+  "name": "Loft Moderno",
+  "slug": "loft-moderno-2",
+  "location": {
+    "id": 10,
+    "type": 1,
+    "address": {
+      "street": "Calle Arag\u00f3n 78",
+      "floor": "Bajos",
+      "zipcode": "08004"
+    },
+    "coordinates": {
+      "latitude": 41.3029206,
+      "longitude": 2.1013276
+    }
+  },
+  "capacity": {
+    "space": 115,
+    "guests": 2,
+    "max_people": 8,
+    "bedrooms": 4,
+    "bathrooms": 1,
+    "wc": 2,
+    "units": 1
+  },
+  "type_id": 4,
+  "checkin": {
+    "from": "15:00",
+    "to": "21:00"
+  },
+  "checkout_until": "11:00",
+  "pricing": {
+    "min_price": 1001.90,
+    "min_stay": 9
+  },
+  "status": {
+    "active": 1,
+    "featured": 0,
+    "order_pos": 0
+  },
+  "gallery": [
+    {
+      "is_main": true,
+      "url": "https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/2/66d9e348175db533394366.jpeg",
+      "alt": "Primera imagen"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/2/66d9e34a55db0935886401.jpeg",
+      "alt": "segunda imagen"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/2/66d9e34a0357e586694469.jpeg",
+      "alt": "tercera imagen"
+    }
+  ],
+  "descriptions": {
+    "es": "Espacio moderno y confortable.",
+    "ca": "Espacio moderno y confortable.",
+    "en": "Espacio moderno y confortable."
+  },
+  "licence": {
+    "number": "HUTB-016265",
+    "info": "Licencia turística válida según normativa local."
+  },
+  "cancellation_policies": "Cancelación gratuita hasta 7 días antes de la llegada.",
+  "seo": {
+    "meta": {
+      "section": "rentals",
+      "title": "Loft Moderno Barcelona",
+      "keywords": "apartment, barcelona, rental",
+      "description": "Apartment in Barcelona city center."
+    }
+  },
+  "timestamps": {
+    "created_at": "2026-01-01 12:00:00",
+    "updated_at": "2026-02-09 09:57:02"
+  }
+}
+,
+{
+  "id": 3,
+  "name": "\u00c1tico con Terraza",
+  "slug": "tico-con-terraza-3",
+  "location": {
+    "id": 12,
+    "type": 1,
+    "address": {
+      "street": "Calle Arag\u00f3n 78",
+      "floor": "2\u00ba 1\u00aa",
+      "zipcode": "08003"
+    },
+    "coordinates": {
+      "latitude": 41.3015928,
+      "longitude": 2.1032767
+    }
+  },
+  "capacity": {
+    "space": 32,
+    "guests": 4,
+    "max_people": 5,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "wc": 1,
+    "units": 1
+  },
+  "type_id": 4,
+  "checkin": {
+    "from": "15:00",
+    "to": "21:00"
+  },
+  "checkout_until": "11:00",
+  "pricing": {
+    "min_price": 949.42,
+    "min_stay": 141
+  },
+  "status": {
+    "active": 1,
+    "featured": 0,
+    "order_pos": 0
+  },
+  "gallery": [
+    {
+      "is_main": true,
+      "url": "https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/3/66d9e348175db533394366.jpeg",
+      "alt": "Primera imagen"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/3/66d9e34a55db0935886401.jpeg",
+      "alt": "segunda imagen"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/3/66d9e34a0357e586694469.jpeg",
+      "alt": "tercera imagen"
+    }
+  ],
+  "descriptions": {
+    "es": "Bonito apartamento en el centro, totalmente equipado.",
+    "ca": "Bonito apartamento en el centro, totalmente equipado.",
+    "en": "Bonito apartamento en el centro, totalmente equipado."
+  },
+  "licence": {
+    "number": "HUTB-008725",
+    "info": "Licencia turística válida según normativa local."
+  },
+  "cancellation_policies": "Cancelación gratuita hasta 7 días antes de la llegada.",
+  "seo": {
+    "meta": {
+      "section": "rentals",
+      "title": "\u00c1tico con Terraza Barcelona",
+      "keywords": "apartment, barcelona, rental",
+      "description": "Apartment in Barcelona city center."
+    }
+  },
+  "timestamps": {
+    "created_at": "2026-01-01 12:00:00",
+    "updated_at": "2026-02-09 09:57:02"
+  }
+}
+,
+{
+  "id": 4,
+  "name": "Apartamento Centro",
+  "slug": "apartamento-centro-4",
+  "location": {
+    "id": 10,
+    "type": 1,
+    "address": {
+      "street": "Carrer Gran de Gr\u00e0cia 9",
+      "floor": "1\u00ba 1\u00aa",
+      "zipcode": "08005"
+    },
+    "coordinates": {
+      "latitude": 41.3023360,
+      "longitude": 2.1007430
+    }
+  },
+  "capacity": {
+    "space": 92,
+    "guests": 3,
+    "max_people": 4,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "wc": 1,
+    "units": 1
+  },
+  "type_id": 1,
+  "checkin": {
+    "from": "15:00",
+    "to": "21:00"
+  },
+  "checkout_until": "11:00",
+  "pricing": {
+    "min_price": 1173.73,
+    "min_stay": 12
+  },
+  "status": {
+    "active": 1,
+    "featured": 0,
+    "order_pos": 0
+  },
+  "gallery": [
+    {
+      "is_main": true,
+      "url": "https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/4/66d9e348175db533394366.jpeg",
+      "alt": "Primera imagen"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/4/66d9e34a55db0935886401.jpeg",
+      "alt": "segunda imagen"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/4/66d9e34a0357e586694469.jpeg",
+      "alt": "tercera imagen"
+    }
+  ],
+  "descriptions": {
+    "es": "Apartamento agradable, ideal para una estancia relajada.",
+    "ca": "Apartamento agradable, ideal para una estancia relajada.",
+    "en": "Apartamento agradable, ideal para una estancia relajada."
+  },
+  "licence": {
+    "number": "HUTB-020680",
+    "info": "Licencia turística válida según normativa local."
+  },
+  "cancellation_policies": "Cancelación gratuita hasta 7 días antes de la llegada.",
+  "seo": {
+    "meta": {
+      "section": "rentals",
+      "title": "Apartamento Centro Barcelona",
+      "keywords": "apartment, barcelona, rental",
+      "description": "Apartment in Barcelona city center."
+    }
+  },
+  "timestamps": {
+    "created_at": "2026-01-01 12:00:00",
+    "updated_at": "2026-02-09 09:57:03"
+  }
+}
+,
+{
+  "id": 5,
+  "name": "Estudio Acogedor,",
+  "slug": "estudio-acogedor-5",
+  "location": {
+    "id": 11,
+    "type": 1,
+    "address": {
+      "street": "Carrer de Mallorca 123",
+      "floor": "3\u00ba 2\u00aa",
+      "zipcode": "08005"
+    },
+    "coordinates": {
+      "latitude": 41.3015138,
+      "longitude": 2.1031976
+    }
+  },
+  "capacity": {
+    "space": 60,
+    "guests": 2,
+    "max_people": 3,
+    "bedrooms": 0,
+    "bathrooms": 3,
+    "wc": 1,
+    "units": 1
+  },
+  "type_id": 5,
+  "checkin": {
+    "from": "15:00",
+    "to": "21:00"
+  },
+  "checkout_until": "11:00",
+  "pricing": {
+    "min_price": 1060.51,
+    "min_stay": 70
+  },
+  "status": {
+    "active": 1,
+    "featured": 0,
+    "order_pos": 0
+  },
+  "gallery": [
+    {
+      "is_main": true,
+      "url": "https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/5/66d9e348175db533394366.jpeg",
+      "alt": "Primera imagen"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/5/66d9e34a55db0935886401.jpeg",
+      "alt": "segunda imagen"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/5/66d9e34a0357e586694469.jpeg",
+      "alt": "tercera imagen"
+    }
+  ],
+  "descriptions": {
+    "es": "Ideal para profesionales, estudiantes o parejas.",
+    "ca": "Ideal para profesionales, estudiantes o parejas.",
+    "en": "Ideal para profesionales, estudiantes o parejas."
+  },
+  "licence": {
+    "number": "HUTB-023357",
+    "info": "Licencia turística válida según normativa local."
+  },
+  "cancellation_policies": "Cancelación gratuita hasta 7 días antes de la llegada.",
+  "seo": {
+    "meta": {
+      "section": "rentals",
+      "title": "Estudio Acogedor, Barcelona",
+      "keywords": "apartment, barcelona, rental",
+      "description": "Apartment in Barcelona city center."
+    }
+  },
+  "timestamps": {
+    "created_at": "2026-01-01 12:00:00",
+    "updated_at": "2026-02-09 09:57:03"
+  }
+}
+  ]
+}
