@@ -1,0 +1,58 @@
+{
+    "blockedDates":  [
+        {
+            "StartDate": "2026-01-01",
+            "EndDate": "2026-01-31",
+            "IsBlocked": false,
+            "MinStay": 1
+        },
+        {
+            "StartDate": "2026-02-01",
+            "EndDate": "2026-02-28",
+            "IsBlocked": false,
+            "MinStay": 1
+        },
+        {
+            "StartDate": "2026-03-01",
+            "EndDate": "2026-03-31",
+            "IsBlocked": false,
+            "MinStay": 1
+        },
+        {
+            "StartDate": "2026-04-01",
+            "EndDate": "2026-04-30",
+            "IsBlocked": false,
+            "MinStay": 1
+        },
+        {
+            "StartDate": "2026-05-01",
+            "EndDate": "2026-05-30",
+            "IsBlocked": false,
+            "MinStay": 1
+        },
+        {
+            "StartDate": "2026-06-01",
+            "EndDate": "2026-06-30",
+            "IsBlocked": false,
+            "MinStay": 1
+        },
+        {
+            "StartDate": "2026-07-01",
+            "EndDate": "2026-07-30",
+            "IsBlocked": false,
+            "MinStay": 1
+        },
+        {
+            "StartDate": "2026-08-01",
+            "EndDate": "2026-08-30",
+            "IsBlocked": false,
+            "MinStay": 1
+        },
+        {
+            "StartDate": "2026-09-01",
+            "EndDate": "2026-09-30",
+            "IsBlocked": false,
+            "MinStay": 1
+        }
+    ]
+}

@@ -41,7 +41,7 @@
     "featured": 0,
     "order_pos": 0
   },
-  "gallery": [
+  "+": [
     {
       "is_main": true,
       "url": "https://raw.githubusercontent.com/drarekx/xml-test/refs/heads/main/images/1/66d9e348175db533394366.jpeg",
@@ -399,5 +399,6 @@
     "updated_at": "2026-02-09 09:57:03"
   }
 }
-  ]
+  ],
+  "next-page" : 2
 }
