@@ -3,202 +3,118 @@
     {
       "StartDate": "2026-01-01",
       "EndDate": "2026-01-02",
-      "IsBlocked": false,
-      "MinStay": 2
-    }
-,
-    {
-      "StartDate": "2026-01-03",
-      "EndDate": "2026-01-17",
-      "IsBlocked": false,
-      "MinStay": 1
-    }
-,
-    {
-      "StartDate": "2026-01-18",
-      "EndDate": "2026-02-08",
-      "IsBlocked": false,
-      "MinStay": 1
-    }
-,
-    {
-      "StartDate": "2026-02-09",
-      "EndDate": "2026-02-25",
-      "IsBlocked": false,
-      "MinStay": 3
-    }
-,
-    {
-      "StartDate": "2026-02-26",
-      "EndDate": "2026-03-03",
-      "IsBlocked": false,
-      "MinStay": 2
-    }
-,
-    {
-      "StartDate": "2026-03-04",
-      "EndDate": "2026-03-12",
-      "IsBlocked": false,
-      "MinStay": 2
-    }
-,
-    {
-      "StartDate": "2026-03-13",
-      "EndDate": "2026-03-27",
       "IsBlocked": true,
       "MinStay": 1
     }
 ,
     {
-      "StartDate": "2026-03-28",
-      "EndDate": "2026-04-03",
+      "StartDate": "2026-01-31",
+      "EndDate": "2026-02-01",
       "IsBlocked": true,
       "MinStay": 1
     }
 ,
     {
-      "StartDate": "2026-04-08",
-      "EndDate": "2026-04-16",
-      "IsBlocked": false,
-      "MinStay": 5
+      "StartDate": "2026-02-07",
+      "EndDate": "2026-02-13",
+      "IsBlocked": true,
+      "MinStay": 1
+    }
+,
+    {
+      "StartDate": "2026-02-16",
+      "EndDate": "2026-02-20",
+      "IsBlocked": true,
+      "MinStay": 2
+    }
+,
+    {
+      "StartDate": "2026-03-12",
+      "EndDate": "2026-03-15",
+      "IsBlocked": true,
+      "MinStay": 1
+    }
+,
+    {
+      "StartDate": "2026-04-11",
+      "EndDate": "2026-04-12",
+      "IsBlocked": true,
+      "MinStay": 2
     }
 ,
     {
       "StartDate": "2026-04-20",
-      "EndDate": "2026-04-22",
-      "IsBlocked": false,
-      "MinStay": 1
-    }
-,
-    {
-      "StartDate": "2026-04-27",
-      "EndDate": "2026-04-30",
-      "IsBlocked": false,
-      "MinStay": 1
-    }
-,
-    {
-      "StartDate": "2026-05-03",
-      "EndDate": "2026-05-06",
+      "EndDate": "2026-04-23",
       "IsBlocked": true,
-      "MinStay": 1
+      "MinStay": 2
     }
 ,
     {
-      "StartDate": "2026-05-08",
+      "StartDate": "2026-05-09",
       "EndDate": "2026-05-10",
       "IsBlocked": true,
-      "MinStay": 1
-    }
-,
-    {
-      "StartDate": "2026-05-11",
-      "EndDate": "2026-05-14",
-      "IsBlocked": false,
       "MinStay": 2
     }
 ,
     {
-      "StartDate": "2026-05-15",
-      "EndDate": "2026-05-16",
-      "IsBlocked": false,
-      "MinStay": 1
-    }
-,
-    {
-      "StartDate": "2026-05-17",
-      "EndDate": "2026-06-03",
-      "IsBlocked": false,
-      "MinStay": 1
-    }
-,
-    {
-      "StartDate": "2026-06-04",
-      "EndDate": "2026-06-29",
+      "StartDate": "2026-05-13",
+      "EndDate": "2026-05-19",
       "IsBlocked": true,
       "MinStay": 1
     }
 ,
     {
-      "StartDate": "2026-06-30",
-      "EndDate": "2026-07-04",
-      "IsBlocked": false,
-      "MinStay": 3
-    }
-,
-    {
-      "StartDate": "2026-07-05",
-      "EndDate": "2026-07-18",
-      "IsBlocked": false,
-      "MinStay": 2
-    }
-,
-    {
-      "StartDate": "2026-07-19",
-      "EndDate": "2026-07-31",
+      "StartDate": "2026-05-23",
+      "EndDate": "2026-05-25",
       "IsBlocked": true,
       "MinStay": 1
     }
 ,
     {
-      "StartDate": "2026-08-01",
-      "EndDate": "2026-08-04",
+      "StartDate": "2026-05-28",
+      "EndDate": "2026-06-17",
+      "IsBlocked": true,
+      "MinStay": 2
+    }
+,
+    {
+      "StartDate": "2026-07-01",
+      "EndDate": "2026-07-07",
+      "IsBlocked": true,
+      "MinStay": 5
+    }
+,
+    {
+      "StartDate": "2026-07-11",
+      "EndDate": "2026-07-12",
+      "IsBlocked": true,
+      "MinStay": 1
+    }
+,
+    {
+      "StartDate": "2026-07-16",
+      "EndDate": "2026-07-23",
+      "IsBlocked": true,
+      "MinStay": 2
+    }
+,
+    {
+      "StartDate": "2026-07-28",
+      "EndDate": "2026-08-01",
       "IsBlocked": true,
       "MinStay": 1
     }
 ,
     {
       "StartDate": "2026-08-06",
-      "EndDate": "2026-08-22",
-      "IsBlocked": false,
-      "MinStay": 2
-    }
-,
-    {
-      "StartDate": "2026-08-25",
-      "EndDate": "2026-08-27",
+      "EndDate": "2026-08-18",
       "IsBlocked": true,
       "MinStay": 1
     }
 ,
     {
-      "StartDate": "2026-08-28",
-      "EndDate": "2026-08-29",
-      "IsBlocked": false,
-      "MinStay": 3
-    }
-,
-    {
-      "StartDate": "2026-08-30",
-      "EndDate": "2026-09-04",
-      "IsBlocked": false,
-      "MinStay": 3
-    }
-,
-    {
-      "StartDate": "2026-09-05",
-      "EndDate": "2026-09-08",
-      "IsBlocked": false,
-      "MinStay": 2
-    }
-,
-    {
-      "StartDate": "2026-09-09",
-      "EndDate": "2026-09-11",
-      "IsBlocked": false,
-      "MinStay": 2
-    }
-,
-    {
-      "StartDate": "2026-09-12",
-      "EndDate": "2026-09-23",
-      "IsBlocked": true,
-      "MinStay": 1
-    }
-,
-    {
-      "StartDate": "2026-09-24",
-      "EndDate": "2026-09-30",
+      "StartDate": "2026-09-10",
+      "EndDate": "2026-09-16",
       "IsBlocked": true,
       "MinStay": 1
     }
