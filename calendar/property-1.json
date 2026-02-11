@@ -2,121 +2,72 @@
   "blockedDates": [
     {
       "StartDate": "2026-01-01",
-      "EndDate": "2026-01-04",
-      "IsBlocked": true,
-      "MinStay": 1
+      "EndDate": "2026-01-04"
     }
 ,
     {
       "StartDate": "2026-01-27",
-      "EndDate": "2026-01-29",
-      "IsBlocked": true,
-      "MinStay": 1
+      "EndDate": "2026-01-29"
     }
 ,
     {
       "StartDate": "2026-02-23",
-      "EndDate": "2026-03-02",
-      "IsBlocked": true,
-      "MinStay": 1
+      "EndDate": "2026-03-02"
     }
 ,
     {
       "StartDate": "2026-03-06",
-      "EndDate": "2026-03-12",
-      "IsBlocked": true,
-      "MinStay": 1
+      "EndDate": "2026-03-12"
     }
 ,
     {
       "StartDate": "2026-03-15",
-      "EndDate": "2026-03-16",
-      "IsBlocked": true,
-      "MinStay": 1
+      "EndDate": "2026-03-16"
     }
 ,
     {
       "StartDate": "2026-03-19",
-      "EndDate": "2026-03-21",
-      "IsBlocked": true,
-      "MinStay": 1
+      "EndDate": "2026-03-21"
     }
 ,
     {
       "StartDate": "2026-03-25",
-      "EndDate": "2026-03-28",
-      "IsBlocked": true,
-      "MinStay": 1
+      "EndDate": "2026-03-28"
     }
 ,
     {
       "StartDate": "2026-04-14",
-      "EndDate": "2026-04-21",
-      "IsBlocked": true,
-      "MinStay": 1
+      "EndDate": "2026-04-21"
     }
 ,
     {
       "StartDate": "2026-04-26",
-      "EndDate": "2026-05-08",
-      "IsBlocked": true,
-      "MinStay": 1
+      "EndDate": "2026-05-08"
     }
 ,
     {
       "StartDate": "2026-05-13",
-      "EndDate": "2026-05-16",
-      "IsBlocked": true,
-      "MinStay": 1
+      "EndDate": "2026-05-16"
     }
 ,
     {
       "StartDate": "2026-05-20",
-      "EndDate": "2026-05-21",
-      "IsBlocked": true,
-      "MinStay": 2
+      "EndDate": "2026-05-21"
     }
 ,
     {
       "StartDate": "2026-05-25",
-      "EndDate": "2026-06-05",
-      "IsBlocked": true,
-      "MinStay": 2
+      "EndDate": "2026-06-05"
     }
 ,
     {
       "StartDate": "2026-07-02",
-      "EndDate": "2026-07-07",
-      "IsBlocked": true,
-      "MinStay": 5
+      "EndDate": "2026-07-07"
     }
 ,
     {
       "StartDate": "2026-08-05",
-      "EndDate": "2026-08-23",
-      "IsBlocked": true,
-      "MinStay": 1
-    }
-,
-    {
-      "StartDate": "2026-09-04",
-      "EndDate": "2026-09-16",
-      "IsBlocked": true,
-      "MinStay": 1
-    }
-,
-    {
-      "StartDate": "2026-09-21",
-      "EndDate": "2026-09-23",
-      "IsBlocked": true,
-      "MinStay": 1
-    }
-,
-    {
-      "StartDate": "2026-09-26",
-      "EndDate": "2026-09-30",
-      "IsBlocked": true,
-      "MinStay": 1
+      "EndDate": "2026-08-23"
     }
 
   ]
